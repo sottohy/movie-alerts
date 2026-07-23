@@ -88,9 +88,8 @@ def notify(film):
         f"https://ntfy.sh/{NTFY_TOPIC}",
         data=body.encode("utf-8"),
         headers={
-            "Title": "VOX: tickets on sale",
+            "Title": "Time For The Movies",
             "Priority": "high",
-            "Tags": "clapper",
             "Click": BASE + film["url"] + "#showtimes",
         },
         timeout=30,
