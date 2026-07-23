@@ -1,0 +1,206 @@
+{
+  "khali-balak-min-nafsik-arabic": {
+    "title": "Khali Balak Min Nafsik",
+    "url": "/movies/khali-balak-min-nafsik-arabic",
+    "booking_open": true,
+    "genre": null
+  },
+  "the-odyssey": {
+    "title": "The Odyssey",
+    "url": "/movies/the-odyssey",
+    "booking_open": true,
+    "genre": null
+  },
+  "sakr-w-canaria-arabic": {
+    "title": "Sakr w Canaria",
+    "url": "/movies/sakr-w-canaria-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "shamshoun-w-dalila-arabic": {
+    "title": "Shamshoun w Dalila",
+    "url": "/movies/shamshoun-w-dalila-arabic",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "toy-story-5-arabic": {
+    "title": "Toy Story 5",
+    "url": "/movies/toy-story-5-arabic",
+    "booking_open": true,
+    "genre": "Animation"
+  },
+  "moana": {
+    "title": "Moana",
+    "url": "/movies/moana",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "7-dogs-arabic": {
+    "title": "7 Dogs",
+    "url": "/movies/7-dogs-arabic",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "eben-meen-fehom-arabic": {
+    "title": "Eben Meen Fehom",
+    "url": "/movies/eben-meen-fehom-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "evil-dead-burn": {
+    "title": "Evil Dead Burn",
+    "url": "/movies/evil-dead-burn",
+    "booking_open": true,
+    "genre": "Horror"
+  },
+  "spider-man-brand-new-day": {
+    "title": "Spider-Man: Brand New Day",
+    "url": "/movies/spider-man-brand-new-day",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "minions-and-monsters": {
+    "title": "Minions & Monsters",
+    "url": "/movies/minions-and-monsters",
+    "booking_open": true,
+    "genre": "Animation"
+  },
+  "ezma-arabic": {
+    "title": "Ezma",
+    "url": "/movies/ezma-arabic",
+    "booking_open": true,
+    "genre": "Drama"
+  },
+  "el-kalam-ala-eh-awel-leila-arabic": {
+    "title": "El Kalam Ala Eh (Awel Leila)",
+    "url": "/movies/el-kalam-ala-eh-awel-leila-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "toy-story-5": {
+    "title": "Toy Story 5",
+    "url": "/movies/toy-story-5",
+    "booking_open": true,
+    "genre": "Animation"
+  },
+  "keeper": {
+    "title": "Keeper",
+    "url": "/movies/keeper",
+    "booking_open": true,
+    "genre": "Horror"
+  },
+  "ipman-kungfu-legend": {
+    "title": "Ipman Kungfu Legend",
+    "url": "/movies/ipman-kungfu-legend",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "motor-city": {
+    "title": "Motor City",
+    "url": "/movies/motor-city",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "the-furious": {
+    "title": "The Furious",
+    "url": "/movies/the-furious",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "el-gawahergy-arabic": {
+    "title": "El Gawahergy",
+    "url": "/movies/el-gawahergy-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "ice-cream-man": {
+    "title": "Ice Cream Man",
+    "url": "/movies/ice-cream-man",
+    "booking_open": false,
+    "genre": "Horror"
+  },
+  "panda-plan-the-magical-tribe": {
+    "title": "Panda Plan: The Magical Tribe",
+    "url": "/movies/panda-plan-the-magical-tribe",
+    "booking_open": false,
+    "genre": "Family"
+  },
+  "paw-patrol-the-dino-movie": {
+    "title": "Paw Patrol: The Dino Movie",
+    "url": "/movies/paw-patrol-the-dino-movie",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "the-end-of-oak-street": {
+    "title": "The End of Oak Street",
+    "url": "/movies/the-end-of-oak-street",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "el-set-lamma-arabic": {
+    "title": "El Set Lamma",
+    "url": "/movies/el-set-lamma-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "insidious-out-of-the-further": {
+    "title": "Insidious: Out Of The Further",
+    "url": "/movies/insidious-out-of-the-further",
+    "booking_open": false,
+    "genre": "Horror"
+  },
+  "the-dog-stars": {
+    "title": "The Dog Stars",
+    "url": "/movies/the-dog-stars",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "by-any-means": {
+    "title": "By Any Means",
+    "url": "/movies/by-any-means",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "practical-magic-2": {
+    "title": "Practical Magic 2",
+    "url": "/movies/practical-magic-2",
+    "booking_open": false,
+    "genre": "Sci-fi"
+  },
+  "runner": {
+    "title": "Runner",
+    "url": "/movies/runner",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "verity": {
+    "title": "Verity",
+    "url": "/movies/verity",
+    "booking_open": false,
+    "genre": "Crime"
+  },
+  "the-cat-in-the-hat": {
+    "title": "The Cat In The Hat",
+    "url": "/movies/the-cat-in-the-hat",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "hexed": {
+    "title": "Hexed",
+    "url": "/movies/hexed",
+    "booking_open": false,
+    "genre": "Adventure"
+  },
+  "avengers-doomsday": {
+    "title": "Avengers: Doomsday",
+    "url": "/movies/avengers-doomsday",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "moana-arabic": {
+    "title": "Moana",
+    "url": "/movies/moana-arabic",
+    "booking_open": false,
+    "genre": "Action"
+  }
+}

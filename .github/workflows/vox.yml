@@ -1,0 +1,48 @@
+name: VOX booking alerts
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours (UTC)
+  workflow_dispatch:          # allow manual runs from the Actions tab
+
+# needed so the job can push the updated state.json back to the repo
+permissions:
+  contents: write
+
+# avoid overlapping runs racing on state.json
+concurrency:
+  group: vox-alerts
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run alerter
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python vox_notify.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "Update VOX film state [skip ci]"
+            git push
+          fi
