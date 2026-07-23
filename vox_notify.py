@@ -6,7 +6,7 @@ BASE = "https://egy.voxcinemas.com"
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 # NTFY_TOPIC = "testing"
 GENRES = {"horror"}
-WATCHLIST = set()          # exact titles to watch regardless of genre
+WATCHLIST = {"Avengers: Doomsday"}   # exact titles to watch regardless of genre
 STATE_FILE = "state.json"
 UA = {"User-Agent": "curl/8.8.0"}  # site's WAF blackholes custom/Mozilla UAs; a plain client UA passes
 
@@ -83,7 +83,7 @@ def matches(film):
 
 
 def notify(film):
-    body = f"{film['title']} ({film.get('genre') or 'genre unknown'}) - booking is now open"
+    body = f"{film['title']} ({film.get('genre') or 'genre unknown'}) - booking is now open!!"
     requests.post(
         f"https://ntfy.sh/{NTFY_TOPIC}",
         data=body.encode("utf-8"),
