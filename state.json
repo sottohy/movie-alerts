@@ -3,13 +3,13 @@
     "title": "Khali Balak Min Nafsik",
     "url": "/movies/khali-balak-min-nafsik-arabic",
     "booking_open": true,
-    "genre": null
+    "genre": "Comedy"
   },
   "the-odyssey": {
     "title": "The Odyssey",
     "url": "/movies/the-odyssey",
     "booking_open": true,
-    "genre": null
+    "genre": "Adventure"
   },
   "sakr-w-canaria-arabic": {
     "title": "Sakr w Canaria",
