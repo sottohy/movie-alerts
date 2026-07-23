@@ -62,8 +62,9 @@ To enable it:
 
 ## Notes
 
-- **User-Agent matters.** The site's WAF silently drops requests with custom or
-  `Mozilla/...` User-Agents (the connection hangs until timeout). The script
-  sends `curl/8.8.0`, which passes. If runs start timing out, check this first.
+- **User-Agent matters.** The site is picky about how requests are shaped —
+  some User-Agent values get no response and the request just hangs until it
+  times out. The script sends a plain client User-Agent, which works reliably.
+  If runs start timing out, check this first.
 - `state.json` is committed so the cloud runs have a baseline to diff against.
 - `.env` (holding `NTFY_TOPIC`) is gitignored — keep your topic out of the repo.
