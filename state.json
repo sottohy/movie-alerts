@@ -110,7 +110,7 @@
   "visa-arabic": {
     "title": "Visa",
     "url": "/movies/visa-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Thriller"
   },
   "el-gawahergy-arabic": {
