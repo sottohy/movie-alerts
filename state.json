@@ -107,6 +107,12 @@
     "booking_open": true,
     "genre": "Action"
   },
+  "visa-arabic": {
+    "title": "Visa",
+    "url": "/movies/visa-arabic",
+    "booking_open": false,
+    "genre": "Thriller"
+  },
   "el-gawahergy-arabic": {
     "title": "El Gawahergy",
     "url": "/movies/el-gawahergy-arabic",
