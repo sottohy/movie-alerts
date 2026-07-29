@@ -59,12 +59,6 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "eben-meen-fehom-arabic": {
-    "title": "Eben Meen Fehom",
-    "url": "/movies/eben-meen-fehom-arabic",
-    "booking_open": true,
-    "genre": "Comedy"
-  },
   "evil-dead-burn": {
     "title": "Evil Dead Burn",
     "url": "/movies/evil-dead-burn",
@@ -77,12 +71,6 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "ezma-arabic": {
-    "title": "Ezma",
-    "url": "/movies/ezma-arabic",
-    "booking_open": true,
-    "genre": "Drama"
-  },
   "el-kalam-ala-eh-awel-leila-arabic": {
     "title": "El Kalam Ala Eh (Awel Leila)",
     "url": "/movies/el-kalam-ala-eh-awel-leila-arabic",
@@ -94,12 +82,6 @@
     "url": "/movies/toy-story-5",
     "booking_open": true,
     "genre": "Animation"
-  },
-  "ipman-kungfu-legend": {
-    "title": "Ipman Kungfu Legend",
-    "url": "/movies/ipman-kungfu-legend",
-    "booking_open": true,
-    "genre": "Action"
   },
   "motor-city": {
     "title": "Motor City",
