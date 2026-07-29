@@ -1,15 +1,21 @@
 {
-  "khali-balak-min-nafsik-arabic": {
-    "title": "Khali Balak Min Nafsik",
-    "url": "/movies/khali-balak-min-nafsik-arabic",
+  "spider-man-brand-new-day": {
+    "title": "Spider-Man: Brand New Day",
+    "url": "/movies/spider-man-brand-new-day",
     "booking_open": true,
-    "genre": "Comedy"
+    "genre": "Action"
   },
   "the-odyssey": {
     "title": "The Odyssey",
     "url": "/movies/the-odyssey",
     "booking_open": true,
     "genre": "Adventure"
+  },
+  "khali-balak-min-nafsik-arabic": {
+    "title": "Khali Balak Min Nafsik",
+    "url": "/movies/khali-balak-min-nafsik-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
   },
   "sakr-w-canaria-arabic": {
     "title": "Sakr w Canaria",
@@ -20,6 +26,12 @@
   "shamshoun-w-dalila-arabic": {
     "title": "Shamshoun w Dalila",
     "url": "/movies/shamshoun-w-dalila-arabic",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "7-dogs-arabic": {
+    "title": "7 Dogs",
+    "url": "/movies/7-dogs-arabic",
     "booking_open": true,
     "genre": "Action"
   },
@@ -35,11 +47,11 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "7-dogs-arabic": {
-    "title": "7 Dogs",
-    "url": "/movies/7-dogs-arabic",
+  "visa-arabic": {
+    "title": "Visa",
+    "url": "/movies/visa-arabic",
     "booking_open": true,
-    "genre": "Action"
+    "genre": "Thriller"
   },
   "eben-meen-fehom-arabic": {
     "title": "Eben Meen Fehom",
@@ -52,12 +64,6 @@
     "url": "/movies/evil-dead-burn",
     "booking_open": true,
     "genre": "Horror"
-  },
-  "spider-man-brand-new-day": {
-    "title": "Spider-Man: Brand New Day",
-    "url": "/movies/spider-man-brand-new-day",
-    "booking_open": true,
-    "genre": "Action"
   },
   "minions-and-monsters": {
     "title": "Minions & Monsters",
@@ -106,12 +112,6 @@
     "url": "/movies/the-furious",
     "booking_open": true,
     "genre": "Action"
-  },
-  "visa-arabic": {
-    "title": "Visa",
-    "url": "/movies/visa-arabic",
-    "booking_open": true,
-    "genre": "Thriller"
   },
   "el-gawahergy-arabic": {
     "title": "El Gawahergy",
