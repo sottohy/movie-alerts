@@ -59,41 +59,17 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "evil-dead-burn": {
-    "title": "Evil Dead Burn",
-    "url": "/movies/evil-dead-burn",
-    "booking_open": true,
-    "genre": "Horror"
-  },
   "minions-and-monsters": {
     "title": "Minions & Monsters",
     "url": "/movies/minions-and-monsters",
     "booking_open": true,
     "genre": "Animation"
   },
-  "el-kalam-ala-eh-awel-leila-arabic": {
-    "title": "El Kalam Ala Eh (Awel Leila)",
-    "url": "/movies/el-kalam-ala-eh-awel-leila-arabic",
-    "booking_open": true,
-    "genre": "Comedy"
-  },
   "toy-story-5": {
     "title": "Toy Story 5",
     "url": "/movies/toy-story-5",
     "booking_open": true,
     "genre": "Animation"
-  },
-  "motor-city": {
-    "title": "Motor City",
-    "url": "/movies/motor-city",
-    "booking_open": true,
-    "genre": "Action"
-  },
-  "the-furious": {
-    "title": "The Furious",
-    "url": "/movies/the-furious",
-    "booking_open": true,
-    "genre": "Action"
   },
   "ice-cream-man": {
     "title": "Ice Cream Man",
