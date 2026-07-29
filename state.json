@@ -53,6 +53,12 @@
     "booking_open": true,
     "genre": "Thriller"
   },
+  "el-gawahergy-arabic": {
+    "title": "El Gawahergy",
+    "url": "/movies/el-gawahergy-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
   "eben-meen-fehom-arabic": {
     "title": "Eben Meen Fehom",
     "url": "/movies/eben-meen-fehom-arabic",
@@ -112,12 +118,6 @@
     "url": "/movies/the-furious",
     "booking_open": true,
     "genre": "Action"
-  },
-  "el-gawahergy-arabic": {
-    "title": "El Gawahergy",
-    "url": "/movies/el-gawahergy-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
   },
   "ice-cream-man": {
     "title": "Ice Cream Man",
