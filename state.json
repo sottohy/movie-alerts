@@ -95,12 +95,6 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "keeper": {
-    "title": "Keeper",
-    "url": "/movies/keeper",
-    "booking_open": true,
-    "genre": "Horror"
-  },
   "ipman-kungfu-legend": {
     "title": "Ipman Kungfu Legend",
     "url": "/movies/ipman-kungfu-legend",
