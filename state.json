@@ -71,17 +71,23 @@
     "booking_open": true,
     "genre": "Animation"
   },
+  "panda-plan-the-magical-tribe": {
+    "title": "Panda Plan: The Magical Tribe",
+    "url": "/movies/panda-plan-the-magical-tribe",
+    "booking_open": true,
+    "genre": "Family"
+  },
+  "the-get-out": {
+    "title": "The Get Out",
+    "url": "/movies/the-get-out",
+    "booking_open": true,
+    "genre": "Action"
+  },
   "ice-cream-man": {
     "title": "Ice Cream Man",
     "url": "/movies/ice-cream-man",
     "booking_open": false,
     "genre": "Horror"
-  },
-  "panda-plan-the-magical-tribe": {
-    "title": "Panda Plan: The Magical Tribe",
-    "url": "/movies/panda-plan-the-magical-tribe",
-    "booking_open": false,
-    "genre": "Family"
   },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
