@@ -101,12 +101,6 @@
     "booking_open": false,
     "genre": "Comedy"
   },
-  "mahmoud-el-tany-arabic": {
-    "title": "Mahmoud El Tany",
-    "url": "/movies/mahmoud-el-tany-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
-  },
   "above-and-below": {
     "title": "Above and Below",
     "url": "/movies/above-and-below",
@@ -142,6 +136,12 @@
     "url": "/movies/runner",
     "booking_open": false,
     "genre": "Action"
+  },
+  "mahmoud-el-tany-arabic": {
+    "title": "Mahmoud El Tany",
+    "url": "/movies/mahmoud-el-tany-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
   },
   "verity": {
     "title": "Verity",
