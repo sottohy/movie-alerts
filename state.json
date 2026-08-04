@@ -83,12 +83,6 @@
     "booking_open": false,
     "genre": "Horror"
   },
-  "the-get-out": {
-    "title": "The Get Out",
-    "url": "/movies/the-get-out",
-    "booking_open": false,
-    "genre": "Action"
-  },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
     "url": "/movies/paw-patrol-the-dino-movie",
@@ -98,6 +92,12 @@
   "the-end-of-oak-street": {
     "title": "The End of Oak Street",
     "url": "/movies/the-end-of-oak-street",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "the-get-out": {
+    "title": "The Get Out",
+    "url": "/movies/the-get-out",
     "booking_open": false,
     "genre": "Action"
   },
