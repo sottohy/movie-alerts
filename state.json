@@ -5,6 +5,12 @@
     "booking_open": true,
     "genre": "Action"
   },
+  "el-gawahergy-arabic": {
+    "title": "El Gawahergy",
+    "url": "/movies/el-gawahergy-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
   "the-odyssey": {
     "title": "The Odyssey",
     "url": "/movies/the-odyssey",
@@ -22,6 +28,12 @@
     "url": "/movies/sakr-w-canaria-arabic",
     "booking_open": true,
     "genre": "Comedy"
+  },
+  "panda-plan-the-magical-tribe": {
+    "title": "Panda Plan: The Magical Tribe",
+    "url": "/movies/panda-plan-the-magical-tribe",
+    "booking_open": true,
+    "genre": "Family"
   },
   "shamshoun-w-dalila-arabic": {
     "title": "Shamshoun w Dalila",
@@ -53,12 +65,6 @@
     "booking_open": true,
     "genre": "Thriller"
   },
-  "el-gawahergy-arabic": {
-    "title": "El Gawahergy",
-    "url": "/movies/el-gawahergy-arabic",
-    "booking_open": true,
-    "genre": "Comedy"
-  },
   "minions-and-monsters": {
     "title": "Minions & Monsters",
     "url": "/movies/minions-and-monsters",
@@ -70,18 +76,6 @@
     "url": "/movies/toy-story-5",
     "booking_open": true,
     "genre": "Animation"
-  },
-  "panda-plan-the-magical-tribe": {
-    "title": "Panda Plan: The Magical Tribe",
-    "url": "/movies/panda-plan-the-magical-tribe",
-    "booking_open": true,
-    "genre": "Family"
-  },
-  "ice-cream-man": {
-    "title": "Ice Cream Man",
-    "url": "/movies/ice-cream-man",
-    "booking_open": false,
-    "genre": "Horror"
   },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
@@ -106,6 +100,12 @@
     "url": "/movies/el-set-lamma-arabic",
     "booking_open": false,
     "genre": "Comedy"
+  },
+  "paw-patrol-the-dino-movie-arabic": {
+    "title": "Paw Patrol: The Dino Movie",
+    "url": "/movies/paw-patrol-the-dino-movie-arabic",
+    "booking_open": false,
+    "genre": "Animation"
   },
   "above-and-below": {
     "title": "Above and Below",
