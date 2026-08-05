@@ -65,11 +65,11 @@
     "booking_open": true,
     "genre": "Thriller"
   },
-  "minions-and-monsters": {
-    "title": "Minions & Monsters",
-    "url": "/movies/minions-and-monsters",
+  "the-get-out": {
+    "title": "The Get Out",
+    "url": "/movies/the-get-out",
     "booking_open": true,
-    "genre": "Animation"
+    "genre": "Action"
   },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
@@ -80,12 +80,6 @@
   "the-end-of-oak-street": {
     "title": "The End of Oak Street",
     "url": "/movies/the-end-of-oak-street",
-    "booking_open": false,
-    "genre": "Action"
-  },
-  "the-get-out": {
-    "title": "The Get Out",
-    "url": "/movies/the-get-out",
     "booking_open": false,
     "genre": "Action"
   },
