@@ -71,12 +71,6 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "toy-story-5": {
-    "title": "Toy Story 5",
-    "url": "/movies/toy-story-5",
-    "booking_open": true,
-    "genre": "Animation"
-  },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
     "url": "/movies/paw-patrol-the-dino-movie",
