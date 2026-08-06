@@ -155,12 +155,6 @@
     "booking_open": false,
     "genre": "Action"
   },
-  "jumanji-open-world": {
-    "title": "Jumanji: Open World",
-    "url": "/movies/jumanji-open-world",
-    "booking_open": false,
-    "genre": "Action"
-  },
   "moana-arabic": {
     "title": "Moana",
     "url": "/movies/moana-arabic",
