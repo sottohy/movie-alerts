@@ -107,11 +107,11 @@
     "booking_open": false,
     "genre": "Action"
   },
-  "by-any-means": {
-    "title": "By Any Means",
-    "url": "/movies/by-any-means",
+  "coyote-vs-acme": {
+    "title": "Coyote VS Acme",
+    "url": "/movies/coyote-vs-acme",
     "booking_open": false,
-    "genre": "Action"
+    "genre": "Animation"
   },
   "practical-magic-2": {
     "title": "Practical Magic 2",
@@ -152,6 +152,12 @@
   "avengers-doomsday": {
     "title": "Avengers: Doomsday",
     "url": "/movies/avengers-doomsday",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "jumanji-open-world": {
+    "title": "Jumanji: Open World",
+    "url": "/movies/jumanji-open-world",
     "booking_open": false,
     "genre": "Action"
   },
