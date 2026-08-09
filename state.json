@@ -77,12 +77,6 @@
     "booking_open": false,
     "genre": "Action"
   },
-  "el-set-lamma-arabic": {
-    "title": "El Set Lamma",
-    "url": "/movies/el-set-lamma-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
-  },
   "paw-patrol-the-dino-movie-arabic": {
     "title": "Paw Patrol: The Dino Movie",
     "url": "/movies/paw-patrol-the-dino-movie-arabic",
@@ -118,6 +112,12 @@
     "url": "/movies/practical-magic-2",
     "booking_open": false,
     "genre": "Sci-fi"
+  },
+  "el-set-lamma-arabic": {
+    "title": "El Set Lamma",
+    "url": "/movies/el-set-lamma-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
   },
   "runner": {
     "title": "Runner",
