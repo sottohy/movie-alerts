@@ -95,6 +95,12 @@
     "booking_open": false,
     "genre": "Horror"
   },
+  "mahmoud-el-tany-arabic": {
+    "title": "Mahmoud El Tany",
+    "url": "/movies/mahmoud-el-tany-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
   "the-dog-stars": {
     "title": "The Dog Stars",
     "url": "/movies/the-dog-stars",
@@ -124,12 +130,6 @@
     "url": "/movies/runner",
     "booking_open": false,
     "genre": "Action"
-  },
-  "mahmoud-el-tany-arabic": {
-    "title": "Mahmoud El Tany",
-    "url": "/movies/mahmoud-el-tany-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
   },
   "verity": {
     "title": "Verity",
