@@ -65,6 +65,12 @@
     "booking_open": true,
     "genre": "Action"
   },
+  "mahmoud-el-tany-arabic": {
+    "title": "Mahmoud El Tany",
+    "url": "/movies/mahmoud-el-tany-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
     "url": "/movies/paw-patrol-the-dino-movie",
@@ -94,12 +100,6 @@
     "url": "/movies/insidious-out-of-the-further",
     "booking_open": false,
     "genre": "Horror"
-  },
-  "mahmoud-el-tany-arabic": {
-    "title": "Mahmoud El Tany",
-    "url": "/movies/mahmoud-el-tany-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
   },
   "the-dog-stars": {
     "title": "The Dog Stars",
