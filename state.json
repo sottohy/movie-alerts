@@ -59,47 +59,53 @@
     "booking_open": true,
     "genre": "Action"
   },
+  "pinocchio-unstrung": {
+    "title": "Pinocchio: Unstrung",
+    "url": "/movies/pinocchio-unstrung",
+    "booking_open": true,
+    "genre": "Horror"
+  },
   "the-get-out": {
     "title": "The Get Out",
     "url": "/movies/the-get-out",
     "booking_open": true,
     "genre": "Action"
   },
-  "mahmoud-el-tany-arabic": {
-    "title": "Mahmoud El Tany",
-    "url": "/movies/mahmoud-el-tany-arabic",
+  "above-and-below": {
+    "title": "Above and Below",
+    "url": "/movies/above-and-below",
     "booking_open": true,
-    "genre": "Comedy"
+    "genre": "Action"
   },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
     "url": "/movies/paw-patrol-the-dino-movie",
-    "booking_open": false,
+    "booking_open": true,
+    "genre": "Animation"
+  },
+  "paw-patrol-the-dino-movie-arabic": {
+    "title": "Paw Patrol: The Dino Movie",
+    "url": "/movies/paw-patrol-the-dino-movie-arabic",
+    "booking_open": true,
     "genre": "Animation"
   },
   "the-end-of-oak-street": {
     "title": "The End of Oak Street",
     "url": "/movies/the-end-of-oak-street",
-    "booking_open": false,
-    "genre": "Action"
-  },
-  "paw-patrol-the-dino-movie-arabic": {
-    "title": "Paw Patrol: The Dino Movie",
-    "url": "/movies/paw-patrol-the-dino-movie-arabic",
-    "booking_open": false,
-    "genre": "Animation"
-  },
-  "above-and-below": {
-    "title": "Above and Below",
-    "url": "/movies/above-and-below",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "the-rivals-of-amziah-king": {
     "title": "The Rivals of Amziah King",
     "url": "/movies/the-rivals-of-amziah-king",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
+  },
+  "mahmoud-el-tany-arabic": {
+    "title": "Mahmoud El Tany",
+    "url": "/movies/mahmoud-el-tany-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
   },
   "insidious-out-of-the-further": {
     "title": "Insidious: Out Of The Further",
