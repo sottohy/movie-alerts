@@ -107,12 +107,6 @@
     "booking_open": false,
     "genre": "Horror"
   },
-  "the-dog-stars": {
-    "title": "The Dog Stars",
-    "url": "/movies/the-dog-stars",
-    "booking_open": false,
-    "genre": "Action"
-  },
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
     "url": "/movies/coyote-vs-acme",
