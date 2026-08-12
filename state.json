@@ -5,17 +5,23 @@
     "booking_open": true,
     "genre": "Action"
   },
+  "the-odyssey": {
+    "title": "The Odyssey",
+    "url": "/movies/the-odyssey",
+    "booking_open": true,
+    "genre": "Adventure"
+  },
   "el-gawahergy-arabic": {
     "title": "El Gawahergy",
     "url": "/movies/el-gawahergy-arabic",
     "booking_open": true,
     "genre": "Comedy"
   },
-  "the-odyssey": {
-    "title": "The Odyssey",
-    "url": "/movies/the-odyssey",
+  "the-end-of-oak-street": {
+    "title": "The End of Oak Street",
+    "url": "/movies/the-end-of-oak-street",
     "booking_open": true,
-    "genre": "Adventure"
+    "genre": "Action"
   },
   "khali-balak-min-nafsik-arabic": {
     "title": "Khali Balak Min Nafsik",
@@ -23,23 +29,41 @@
     "booking_open": true,
     "genre": "Comedy"
   },
+  "mahmoud-el-tany-arabic": {
+    "title": "Mahmoud El Tany",
+    "url": "/movies/mahmoud-el-tany-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "paw-patrol-the-dino-movie": {
+    "title": "Paw Patrol: The Dino Movie",
+    "url": "/movies/paw-patrol-the-dino-movie",
+    "booking_open": true,
+    "genre": "Animation"
+  },
   "sakr-w-canaria-arabic": {
     "title": "Sakr w Canaria",
     "url": "/movies/sakr-w-canaria-arabic",
     "booking_open": true,
     "genre": "Comedy"
   },
-  "panda-plan-the-magical-tribe": {
-    "title": "Panda Plan: The Magical Tribe",
-    "url": "/movies/panda-plan-the-magical-tribe",
-    "booking_open": true,
-    "genre": "Family"
-  },
   "shamshoun-w-dalila-arabic": {
     "title": "Shamshoun w Dalila",
     "url": "/movies/shamshoun-w-dalila-arabic",
     "booking_open": true,
     "genre": "Action"
+  },
+  "moana": {
+    "title": "Moana",
+    "url": "/movies/moana",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "panda-plan-the-magical-tribe": {
+    "title": "Panda Plan: The Magical Tribe",
+    "url": "/movies/panda-plan-the-magical-tribe",
+    "booking_open": true,
+    "genre": "Family"
   },
   "7-dogs-arabic": {
     "title": "7 Dogs",
@@ -53,35 +77,17 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "moana": {
-    "title": "Moana",
-    "url": "/movies/moana",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "the-get-out": {
     "title": "The Get Out",
     "url": "/movies/the-get-out",
     "booking_open": true,
     "genre": "Action"
   },
-  "mahmoud-el-tany-arabic": {
-    "title": "Mahmoud El Tany",
-    "url": "/movies/mahmoud-el-tany-arabic",
-    "booking_open": true,
-    "genre": "Comedy"
-  },
   "above-and-below": {
     "title": "Above and Below",
     "url": "/movies/above-and-below",
     "booking_open": true,
     "genre": "Action"
-  },
-  "paw-patrol-the-dino-movie": {
-    "title": "Paw Patrol: The Dino Movie",
-    "url": "/movies/paw-patrol-the-dino-movie",
-    "booking_open": true,
-    "genre": "Animation"
   },
   "paw-patrol-the-dino-movie-arabic": {
     "title": "Paw Patrol: The Dino Movie",
@@ -94,12 +100,6 @@
     "url": "/movies/pinocchio-unstrung",
     "booking_open": true,
     "genre": "Horror"
-  },
-  "the-end-of-oak-street": {
-    "title": "The End of Oak Street",
-    "url": "/movies/the-end-of-oak-street",
-    "booking_open": true,
-    "genre": "Action"
   },
   "the-rivals-of-amziah-king": {
     "title": "The Rivals of Amziah King",
