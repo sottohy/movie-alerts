@@ -77,12 +77,6 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "the-get-out": {
-    "title": "The Get Out",
-    "url": "/movies/the-get-out",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "above-and-below": {
     "title": "Above and Below",
     "url": "/movies/above-and-below",
