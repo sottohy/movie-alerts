@@ -101,6 +101,12 @@
     "booking_open": true,
     "genre": "Drama"
   },
+  "el-set-lamma-arabic": {
+    "title": "El Set Lamma",
+    "url": "/movies/el-set-lamma-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
   "insidious-out-of-the-further": {
     "title": "Insidious: Out Of The Further",
     "url": "/movies/insidious-out-of-the-further",
@@ -130,12 +136,6 @@
     "url": "/movies/practical-magic-2",
     "booking_open": false,
     "genre": "Sci-fi"
-  },
-  "el-set-lamma-arabic": {
-    "title": "El Set Lamma",
-    "url": "/movies/el-set-lamma-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
   },
   "runner": {
     "title": "Runner",
