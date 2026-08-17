@@ -107,6 +107,12 @@
     "booking_open": true,
     "genre": "Comedy"
   },
+  "mutiny": {
+    "title": "Mutiny",
+    "url": "/movies/mutiny",
+    "booking_open": false,
+    "genre": "Action"
+  },
   "insidious-out-of-the-further": {
     "title": "Insidious: Out Of The Further",
     "url": "/movies/insidious-out-of-the-further",
@@ -118,6 +124,12 @@
     "url": "/movies/detective-conan-29-japanese",
     "booking_open": false,
     "genre": "Action"
+  },
+  "the-magic-faraway-tree": {
+    "title": "The Magic Faraway Tree",
+    "url": "/movies/the-magic-faraway-tree",
+    "booking_open": false,
+    "genre": "Family"
   },
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
