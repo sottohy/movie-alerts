@@ -107,22 +107,22 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "mutiny": {
-    "title": "Mutiny",
-    "url": "/movies/mutiny",
-    "booking_open": false,
+  "detective-conan-29-japanese": {
+    "title": "Detective Conan 29",
+    "url": "/movies/detective-conan-29-japanese",
+    "booking_open": true,
     "genre": "Action"
   },
   "insidious-out-of-the-further": {
     "title": "Insidious: Out Of The Further",
     "url": "/movies/insidious-out-of-the-further",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
   },
-  "detective-conan-29-japanese": {
-    "title": "Detective Conan 29",
-    "url": "/movies/detective-conan-29-japanese",
-    "booking_open": false,
+  "mutiny": {
+    "title": "Mutiny",
+    "url": "/movies/mutiny",
+    "booking_open": true,
     "genre": "Action"
   },
   "coyote-vs-acme": {
