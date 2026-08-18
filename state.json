@@ -125,12 +125,6 @@
     "booking_open": false,
     "genre": "Action"
   },
-  "the-magic-faraway-tree": {
-    "title": "The Magic Faraway Tree",
-    "url": "/movies/the-magic-faraway-tree",
-    "booking_open": false,
-    "genre": "Family"
-  },
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
     "url": "/movies/coyote-vs-acme",
