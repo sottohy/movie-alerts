@@ -71,23 +71,11 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "7-dogs-arabic": {
-    "title": "7 Dogs",
-    "url": "/movies/7-dogs-arabic",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "toy-story-5-arabic": {
     "title": "Toy Story 5",
     "url": "/movies/toy-story-5-arabic",
     "booking_open": true,
     "genre": "Animation"
-  },
-  "above-and-below": {
-    "title": "Above and Below",
-    "url": "/movies/above-and-below",
-    "booking_open": true,
-    "genre": "Action"
   },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
