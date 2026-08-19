@@ -65,12 +65,6 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "shamshoun-w-dalila-arabic": {
-    "title": "Shamshoun w Dalila",
-    "url": "/movies/shamshoun-w-dalila-arabic",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "moana": {
     "title": "Moana",
     "url": "/movies/moana",
@@ -94,18 +88,6 @@
     "url": "/movies/above-and-below",
     "booking_open": true,
     "genre": "Action"
-  },
-  "pinocchio-unstrung": {
-    "title": "Pinocchio: Unstrung",
-    "url": "/movies/pinocchio-unstrung",
-    "booking_open": true,
-    "genre": "Horror"
-  },
-  "the-rivals-of-amziah-king": {
-    "title": "The Rivals of Amziah King",
-    "url": "/movies/the-rivals-of-amziah-king",
-    "booking_open": true,
-    "genre": "Drama"
   },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
