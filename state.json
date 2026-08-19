@@ -5,6 +5,12 @@
     "booking_open": true,
     "genre": "Action"
   },
+  "mahmoud-el-tany-arabic": {
+    "title": "Mahmoud El Tany",
+    "url": "/movies/mahmoud-el-tany-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
   "the-odyssey": {
     "title": "The Odyssey",
     "url": "/movies/the-odyssey",
@@ -17,11 +23,11 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "the-end-of-oak-street": {
-    "title": "The End of Oak Street",
-    "url": "/movies/the-end-of-oak-street",
+  "insidious-out-of-the-further": {
+    "title": "Insidious: Out Of The Further",
+    "url": "/movies/insidious-out-of-the-further",
     "booking_open": true,
-    "genre": "Action"
+    "genre": "Horror"
   },
   "khali-balak-min-nafsik-arabic": {
     "title": "Khali Balak Min Nafsik",
@@ -29,11 +35,23 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "mahmoud-el-tany-arabic": {
-    "title": "Mahmoud El Tany",
-    "url": "/movies/mahmoud-el-tany-arabic",
+  "el-set-lamma-arabic": {
+    "title": "El Set Lamma",
+    "url": "/movies/el-set-lamma-arabic",
     "booking_open": true,
     "genre": "Comedy"
+  },
+  "mutiny": {
+    "title": "Mutiny",
+    "url": "/movies/mutiny",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "the-end-of-oak-street": {
+    "title": "The End of Oak Street",
+    "url": "/movies/the-end-of-oak-street",
+    "booking_open": true,
+    "genre": "Action"
   },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
@@ -101,27 +119,9 @@
     "booking_open": true,
     "genre": "Drama"
   },
-  "el-set-lamma-arabic": {
-    "title": "El Set Lamma",
-    "url": "/movies/el-set-lamma-arabic",
-    "booking_open": true,
-    "genre": "Comedy"
-  },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
     "url": "/movies/detective-conan-29-japanese",
-    "booking_open": true,
-    "genre": "Action"
-  },
-  "insidious-out-of-the-further": {
-    "title": "Insidious: Out Of The Further",
-    "url": "/movies/insidious-out-of-the-further",
-    "booking_open": true,
-    "genre": "Horror"
-  },
-  "mutiny": {
-    "title": "Mutiny",
-    "url": "/movies/mutiny",
     "booking_open": true,
     "genre": "Action"
   },
