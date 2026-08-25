@@ -77,6 +77,12 @@
     "booking_open": true,
     "genre": "Animation"
   },
+  "misdirection": {
+    "title": "Misdirection",
+    "url": "/movies/misdirection",
+    "booking_open": true,
+    "genre": "Thriller"
+  },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
     "url": "/movies/detective-conan-29-japanese",
@@ -86,8 +92,14 @@
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
     "url": "/movies/coyote-vs-acme",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Animation"
+  },
+  "the-dog-stars": {
+    "title": "The Dog Stars",
+    "url": "/movies/the-dog-stars",
+    "booking_open": true,
+    "genre": "Action"
   },
   "neglected": {
     "title": "Neglected",
