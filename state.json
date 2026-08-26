@@ -77,12 +77,6 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "toy-story-5-arabic": {
-    "title": "Toy Story 5",
-    "url": "/movies/toy-story-5-arabic",
-    "booking_open": true,
-    "genre": "Animation"
-  },
   "misdirection": {
     "title": "Misdirection",
     "url": "/movies/misdirection",
