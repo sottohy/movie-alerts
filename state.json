@@ -77,12 +77,6 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "moana": {
-    "title": "Moana",
-    "url": "/movies/moana",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "toy-story-5-arabic": {
     "title": "Toy Story 5",
     "url": "/movies/toy-story-5-arabic",
@@ -95,23 +89,35 @@
     "booking_open": true,
     "genre": "Thriller"
   },
-  "siccin-9-turkish": {
-    "title": "Siccin 9",
-    "url": "/movies/siccin-9-turkish",
-    "booking_open": true,
-    "genre": "Horror"
-  },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
     "url": "/movies/detective-conan-29-japanese",
     "booking_open": true,
     "genre": "Action"
   },
+  "shark-attack": {
+    "title": "Shark Attack",
+    "url": "/movies/shark-attack",
+    "booking_open": true,
+    "genre": "Thriller"
+  },
+  "siccin-9-turkish": {
+    "title": "Siccin 9",
+    "url": "/movies/siccin-9-turkish",
+    "booking_open": true,
+    "genre": "Horror"
+  },
   "neglected": {
     "title": "Neglected",
     "url": "/movies/neglected",
     "booking_open": false,
     "genre": "Action"
+  },
+  "red-flag-arabic": {
+    "title": "Red Flag",
+    "url": "/movies/red-flag-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
   },
   "practical-magic-2": {
     "title": "Practical Magic 2",
@@ -130,12 +136,6 @@
     "url": "/movies/the-smurfs-timeless-adventure-volume-2",
     "booking_open": false,
     "genre": "Adventure"
-  },
-  "red-flag-arabic": {
-    "title": "Red Flag",
-    "url": "/movies/red-flag-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
   },
   "resident-evil": {
     "title": "Resident Evil",
