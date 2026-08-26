@@ -17,27 +17,27 @@
     "booking_open": true,
     "genre": "Adventure"
   },
-  "el-gawahergy-arabic": {
-    "title": "El Gawahergy",
-    "url": "/movies/el-gawahergy-arabic",
-    "booking_open": true,
-    "genre": "Comedy"
-  },
   "insidious-out-of-the-further": {
     "title": "Insidious: Out Of The Further",
     "url": "/movies/insidious-out-of-the-further",
     "booking_open": true,
     "genre": "Horror"
   },
-  "khali-balak-min-nafsik-arabic": {
-    "title": "Khali Balak Min Nafsik",
-    "url": "/movies/khali-balak-min-nafsik-arabic",
+  "el-gawahergy-arabic": {
+    "title": "El Gawahergy",
+    "url": "/movies/el-gawahergy-arabic",
     "booking_open": true,
     "genre": "Comedy"
   },
-  "el-set-lamma-arabic": {
-    "title": "El Set Lamma",
-    "url": "/movies/el-set-lamma-arabic",
+  "the-dog-stars": {
+    "title": "The Dog Stars",
+    "url": "/movies/the-dog-stars",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "khali-balak-min-nafsik-arabic": {
+    "title": "Khali Balak Min Nafsik",
+    "url": "/movies/khali-balak-min-nafsik-arabic",
     "booking_open": true,
     "genre": "Comedy"
   },
@@ -52,6 +52,18 @@
     "url": "/movies/the-end-of-oak-street",
     "booking_open": true,
     "genre": "Action"
+  },
+  "el-set-lamma-arabic": {
+    "title": "El Set Lamma",
+    "url": "/movies/el-set-lamma-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "coyote-vs-acme": {
+    "title": "Coyote VS Acme",
+    "url": "/movies/coyote-vs-acme",
+    "booking_open": true,
+    "genre": "Animation"
   },
   "paw-patrol-the-dino-movie": {
     "title": "Paw Patrol: The Dino Movie",
@@ -77,17 +89,23 @@
     "booking_open": true,
     "genre": "Animation"
   },
+  "misdirection": {
+    "title": "Misdirection",
+    "url": "/movies/misdirection",
+    "booking_open": true,
+    "genre": "Thriller"
+  },
+  "siccin-9-turkish": {
+    "title": "Siccin 9",
+    "url": "/movies/siccin-9-turkish",
+    "booking_open": true,
+    "genre": "Horror"
+  },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
     "url": "/movies/detective-conan-29-japanese",
     "booking_open": true,
     "genre": "Action"
-  },
-  "coyote-vs-acme": {
-    "title": "Coyote VS Acme",
-    "url": "/movies/coyote-vs-acme",
-    "booking_open": false,
-    "genre": "Animation"
   },
   "neglected": {
     "title": "Neglected",
@@ -113,9 +131,9 @@
     "booking_open": false,
     "genre": "Adventure"
   },
-  "red-flag-arabi": {
+  "red-flag-arabic": {
     "title": "Red Flag",
-    "url": "/movies/red-flag-arabi",
+    "url": "/movies/red-flag-arabic",
     "booking_open": false,
     "genre": "Comedy"
   },
@@ -123,7 +141,7 @@
     "title": "Resident Evil",
     "url": "/movies/resident-evil",
     "booking_open": false,
-    "genre": null
+    "genre": "Horror"
   },
   "verity": {
     "title": "Verity",
@@ -135,7 +153,7 @@
     "title": "The Dino Family",
     "url": "/movies/the-dino-family",
     "booking_open": false,
-    "genre": null
+    "genre": "Animation"
   },
   "whalefall": {
     "title": "Whalefall",
@@ -171,7 +189,7 @@
     "title": "Violent Night 2",
     "url": "/movies/violent-night-2",
     "booking_open": false,
-    "genre": null
+    "genre": "Action"
   },
   "avengers-doomsday": {
     "title": "Avengers: Doomsday",
