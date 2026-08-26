@@ -77,12 +77,6 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "misdirection": {
-    "title": "Misdirection",
-    "url": "/movies/misdirection",
-    "booking_open": true,
-    "genre": "Thriller"
-  },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
     "url": "/movies/detective-conan-29-japanese",
@@ -92,14 +86,8 @@
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
     "url": "/movies/coyote-vs-acme",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Animation"
-  },
-  "the-dog-stars": {
-    "title": "The Dog Stars",
-    "url": "/movies/the-dog-stars",
-    "booking_open": true,
-    "genre": "Action"
   },
   "neglected": {
     "title": "Neglected",
@@ -119,11 +107,47 @@
     "booking_open": false,
     "genre": "Action"
   },
+  "the-smurfs-timeless-adventure-volume-2": {
+    "title": "The Smurfs Timeless Adventure Volume 2",
+    "url": "/movies/the-smurfs-timeless-adventure-volume-2",
+    "booking_open": false,
+    "genre": "Adventure"
+  },
+  "red-flag-arabi": {
+    "title": "Red Flag",
+    "url": "/movies/red-flag-arabi",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "resident-evil": {
+    "title": "Resident Evil",
+    "url": "/movies/resident-evil",
+    "booking_open": false,
+    "genre": null
+  },
   "verity": {
     "title": "Verity",
     "url": "/movies/verity",
     "booking_open": false,
     "genre": "Crime"
+  },
+  "the-dino-family": {
+    "title": "The Dino Family",
+    "url": "/movies/the-dino-family",
+    "booking_open": false,
+    "genre": null
+  },
+  "whalefall": {
+    "title": "Whalefall",
+    "url": "/movies/whalefall",
+    "booking_open": false,
+    "genre": "Thriller"
+  },
+  "klara-and-the-sun": {
+    "title": "Klara and the Sun",
+    "url": "/movies/klara-and-the-sun",
+    "booking_open": false,
+    "genre": "Comedy"
   },
   "the-mongoose": {
     "title": "The Mongoose",
@@ -143,9 +167,21 @@
     "booking_open": false,
     "genre": "Adventure"
   },
+  "violent-night-2": {
+    "title": "Violent Night 2",
+    "url": "/movies/violent-night-2",
+    "booking_open": false,
+    "genre": null
+  },
   "avengers-doomsday": {
     "title": "Avengers: Doomsday",
     "url": "/movies/avengers-doomsday",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "children-of-blood-and-bone": {
+    "title": "Children of Blood and Bone",
+    "url": "/movies/children-of-blood-and-bone",
     "booking_open": false,
     "genre": "Action"
   }
