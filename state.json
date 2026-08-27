@@ -131,6 +131,12 @@
     "booking_open": false,
     "genre": "Adventure"
   },
+  "pressure": {
+    "title": "Pressure",
+    "url": "/movies/pressure",
+    "booking_open": false,
+    "genre": "Drama"
+  },
   "resident-evil": {
     "title": "Resident Evil",
     "url": "/movies/resident-evil",
