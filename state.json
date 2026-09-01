@@ -77,11 +77,11 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "siccin-9-turkish": {
-    "title": "Siccin 9",
-    "url": "/movies/siccin-9-turkish",
+  "misdirection": {
+    "title": "Misdirection",
+    "url": "/movies/misdirection",
     "booking_open": true,
-    "genre": "Horror"
+    "genre": "Thriller"
   },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
@@ -89,17 +89,17 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "misdirection": {
-    "title": "Misdirection",
-    "url": "/movies/misdirection",
-    "booking_open": true,
-    "genre": "Thriller"
-  },
   "shark-attack": {
     "title": "Shark Attack",
     "url": "/movies/shark-attack",
     "booking_open": true,
     "genre": "Thriller"
+  },
+  "siccin-9-turkish": {
+    "title": "Siccin 9",
+    "url": "/movies/siccin-9-turkish",
+    "booking_open": true,
+    "genre": "Horror"
   },
   "fall-2-deadpoint": {
     "title": "Fall 2: Deadpoint",
