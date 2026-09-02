@@ -77,23 +77,11 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "sakr-w-canaria-arabic": {
-    "title": "Sakr w Canaria",
-    "url": "/movies/sakr-w-canaria-arabic",
-    "booking_open": true,
-    "genre": "Comedy"
-  },
   "detective-conan-29-japanese": {
     "title": "Detective Conan 29",
     "url": "/movies/detective-conan-29-japanese",
     "booking_open": true,
     "genre": "Action"
-  },
-  "siccin-9-turkish": {
-    "title": "Siccin 9",
-    "url": "/movies/siccin-9-turkish",
-    "booking_open": true,
-    "genre": "Horror"
   },
   "by-any-means": {
     "title": "By Any Means",
