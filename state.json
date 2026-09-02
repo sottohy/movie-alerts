@@ -35,6 +35,12 @@
     "booking_open": true,
     "genre": "Comedy"
   },
+  "fall-2-deadpoint": {
+    "title": "Fall 2: Deadpoint",
+    "url": "/movies/fall-2-deadpoint",
+    "booking_open": true,
+    "genre": "Thriller"
+  },
   "el-set-lamma-arabic": {
     "title": "El Set Lamma",
     "url": "/movies/el-set-lamma-arabic",
@@ -101,34 +107,28 @@
     "booking_open": true,
     "genre": "Horror"
   },
-  "fall-2-deadpoint": {
-    "title": "Fall 2: Deadpoint",
-    "url": "/movies/fall-2-deadpoint",
-    "booking_open": false,
-    "genre": "Thriller"
-  },
   "by-any-means": {
     "title": "By Any Means",
     "url": "/movies/by-any-means",
-    "booking_open": false,
-    "genre": "Action"
-  },
-  "neglected": {
-    "title": "Neglected",
-    "url": "/movies/neglected",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "it-ends": {
     "title": "It Ends",
     "url": "/movies/it-ends",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
+  },
+  "neglected": {
+    "title": "Neglected",
+    "url": "/movies/neglected",
+    "booking_open": true,
+    "genre": "Action"
   },
   "red-flag-arabic": {
     "title": "Red Flag",
     "url": "/movies/red-flag-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Comedy"
   },
   "practical-magic-2": {
