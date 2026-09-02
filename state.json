@@ -1,15 +1,15 @@
 {
-  "spider-man-brand-new-day": {
-    "title": "Spider-Man: Brand New Day",
-    "url": "/movies/spider-man-brand-new-day",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "mahmoud-el-tany-arabic": {
     "title": "Mahmoud El Tany",
     "url": "/movies/mahmoud-el-tany-arabic",
     "booking_open": true,
     "genre": "Comedy"
+  },
+  "spider-man-brand-new-day": {
+    "title": "Spider-Man: Brand New Day",
+    "url": "/movies/spider-man-brand-new-day",
+    "booking_open": true,
+    "genre": "Action"
   },
   "the-odyssey": {
     "title": "The Odyssey",
@@ -29,15 +29,15 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "the-dog-stars": {
-    "title": "The Dog Stars",
-    "url": "/movies/the-dog-stars",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "khali-balak-min-nafsik-arabic": {
     "title": "Khali Balak Min Nafsik",
     "url": "/movies/khali-balak-min-nafsik-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "el-set-lamma-arabic": {
+    "title": "El Set Lamma",
+    "url": "/movies/el-set-lamma-arabic",
     "booking_open": true,
     "genre": "Comedy"
   },
@@ -53,11 +53,11 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "el-set-lamma-arabic": {
-    "title": "El Set Lamma",
-    "url": "/movies/el-set-lamma-arabic",
+  "the-dog-stars": {
+    "title": "The Dog Stars",
+    "url": "/movies/the-dog-stars",
     "booking_open": true,
-    "genre": "Comedy"
+    "genre": "Action"
   },
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
