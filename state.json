@@ -119,12 +119,6 @@
     "booking_open": false,
     "genre": "Action"
   },
-  "the-smurfs-timeless-adventure-volume-2": {
-    "title": "The Smurfs Timeless Adventure Volume 2",
-    "url": "/movies/the-smurfs-timeless-adventure-volume-2",
-    "booking_open": false,
-    "genre": "Adventure"
-  },
   "pressure": {
     "title": "Pressure",
     "url": "/movies/pressure",
@@ -136,6 +130,12 @@
     "url": "/movies/resident-evil",
     "booking_open": false,
     "genre": "Horror"
+  },
+  "the-smurfs-timeless-adventure-volume-2": {
+    "title": "The Smurfs Timeless Adventure Volume 2",
+    "url": "/movies/the-smurfs-timeless-adventure-volume-2",
+    "booking_open": false,
+    "genre": "Adventure"
   },
   "verity": {
     "title": "Verity",
