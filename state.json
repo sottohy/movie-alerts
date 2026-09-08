@@ -119,6 +119,24 @@
     "booking_open": false,
     "genre": "Action"
   },
+  "cats-in-the-museum-treasures-of-egypt": {
+    "title": "Cats in the Museum: Treasures of Egypt",
+    "url": "/movies/cats-in-the-museum-treasures-of-egypt",
+    "booking_open": false,
+    "genre": "Family"
+  },
+  "the-bay": {
+    "title": "The Bay",
+    "url": "/movies/the-bay",
+    "booking_open": false,
+    "genre": "Thriller"
+  },
+  "the-uprising": {
+    "title": "The Uprising",
+    "url": "/movies/the-uprising",
+    "booking_open": false,
+    "genre": "Action"
+  },
   "pressure": {
     "title": "Pressure",
     "url": "/movies/pressure",
