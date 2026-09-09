@@ -77,24 +77,6 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "detective-conan-29-japanese": {
-    "title": "Detective Conan 29",
-    "url": "/movies/detective-conan-29-japanese",
-    "booking_open": true,
-    "genre": "Action"
-  },
-  "by-any-means": {
-    "title": "By Any Means",
-    "url": "/movies/by-any-means",
-    "booking_open": true,
-    "genre": "Action"
-  },
-  "it-ends": {
-    "title": "It Ends",
-    "url": "/movies/it-ends",
-    "booking_open": true,
-    "genre": "Horror"
-  },
   "cats-in-the-museum-treasures-of-egypt": {
     "title": "Cats in the Museum: Treasures of Egypt",
     "url": "/movies/cats-in-the-museum-treasures-of-egypt",
