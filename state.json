@@ -65,12 +65,6 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "the-dog-stars": {
-    "title": "The Dog Stars",
-    "url": "/movies/the-dog-stars",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
     "url": "/movies/coyote-vs-acme",
@@ -100,12 +94,6 @@
     "url": "/movies/it-ends",
     "booking_open": true,
     "genre": "Horror"
-  },
-  "neglected": {
-    "title": "Neglected",
-    "url": "/movies/neglected",
-    "booking_open": true,
-    "genre": "Action"
   },
   "cats-in-the-museum-treasures-of-egypt": {
     "title": "Cats in the Museum: Treasures of Egypt",
