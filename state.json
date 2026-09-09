@@ -1,4 +1,10 @@
 {
+  "red-flag-arabic": {
+    "title": "Red Flag",
+    "url": "/movies/red-flag-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
   "mahmoud-el-tany-arabic": {
     "title": "Mahmoud El Tany",
     "url": "/movies/mahmoud-el-tany-arabic",
@@ -101,40 +107,34 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "red-flag-arabic": {
-    "title": "Red Flag",
-    "url": "/movies/red-flag-arabic",
+  "cats-in-the-museum-treasures-of-egypt": {
+    "title": "Cats in the Museum: Treasures of Egypt",
+    "url": "/movies/cats-in-the-museum-treasures-of-egypt",
     "booking_open": true,
-    "genre": "Comedy"
+    "genre": "Family"
   },
   "practical-magic-2": {
     "title": "Practical Magic 2",
     "url": "/movies/practical-magic-2",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Sci-fi"
   },
   "runner": {
     "title": "Runner",
     "url": "/movies/runner",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
-  },
-  "cats-in-the-museum-treasures-of-egypt": {
-    "title": "Cats in the Museum: Treasures of Egypt",
-    "url": "/movies/cats-in-the-museum-treasures-of-egypt",
-    "booking_open": false,
-    "genre": "Family"
   },
   "the-bay": {
     "title": "The Bay",
     "url": "/movies/the-bay",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Thriller"
   },
   "the-uprising": {
     "title": "The Uprising",
     "url": "/movies/the-uprising",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "pressure": {
