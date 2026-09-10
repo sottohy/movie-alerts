@@ -29,6 +29,18 @@
     "booking_open": true,
     "genre": "Horror"
   },
+  "practical-magic-2": {
+    "title": "Practical Magic 2",
+    "url": "/movies/practical-magic-2",
+    "booking_open": true,
+    "genre": "Sci-fi"
+  },
+  "fall-2-deadpoint": {
+    "title": "Fall 2: Deadpoint",
+    "url": "/movies/fall-2-deadpoint",
+    "booking_open": true,
+    "genre": "Thriller"
+  },
   "el-gawahergy-arabic": {
     "title": "El Gawahergy",
     "url": "/movies/el-gawahergy-arabic",
@@ -41,11 +53,11 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "fall-2-deadpoint": {
-    "title": "Fall 2: Deadpoint",
-    "url": "/movies/fall-2-deadpoint",
+  "the-uprising": {
+    "title": "The Uprising",
+    "url": "/movies/the-uprising",
     "booking_open": true,
-    "genre": "Thriller"
+    "genre": "Action"
   },
   "el-set-lamma-arabic": {
     "title": "El Set Lamma",
@@ -83,12 +95,6 @@
     "booking_open": true,
     "genre": "Family"
   },
-  "practical-magic-2": {
-    "title": "Practical Magic 2",
-    "url": "/movies/practical-magic-2",
-    "booking_open": true,
-    "genre": "Sci-fi"
-  },
   "runner": {
     "title": "Runner",
     "url": "/movies/runner",
@@ -100,12 +106,6 @@
     "url": "/movies/the-bay",
     "booking_open": true,
     "genre": "Thriller"
-  },
-  "the-uprising": {
-    "title": "The Uprising",
-    "url": "/movies/the-uprising",
-    "booking_open": true,
-    "genre": "Action"
   },
   "pressure": {
     "title": "Pressure",
@@ -124,6 +124,24 @@
     "url": "/movies/the-smurfs-timeless-adventure-volume-2",
     "booking_open": false,
     "genre": "Adventure"
+  },
+  "avengers-endgame-encore": {
+    "title": "Avengers Endgame: Encore",
+    "url": "/movies/avengers-endgame-encore",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "avengers-endgame-encore-infinity-version": {
+    "title": "Avengers Endgame: Encore (Infinity Version)",
+    "url": "/movies/avengers-endgame-encore-infinity-version",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "shish-dou-arabic": {
+    "title": "Shish Dou",
+    "url": "/movies/shish-dou-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
   },
   "verity": {
     "title": "Verity",
