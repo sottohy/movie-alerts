@@ -107,6 +107,12 @@
     "booking_open": true,
     "genre": "Thriller"
   },
+  "resident-evil": {
+    "title": "Resident Evil",
+    "url": "/movies/resident-evil",
+    "booking_open": true,
+    "genre": "Horror"
+  },
   "tad-and-the-magic-lamp": {
     "title": "Tad and the Magic Lamp",
     "url": "/movies/tad-and-the-magic-lamp",
@@ -130,12 +136,6 @@
     "url": "/movies/just-play-dead",
     "booking_open": false,
     "genre": "Thriller"
-  },
-  "resident-evil": {
-    "title": "Resident Evil",
-    "url": "/movies/resident-evil",
-    "booking_open": false,
-    "genre": "Horror"
   },
   "heart-of-the-beast": {
     "title": "Heart of the Beast",
