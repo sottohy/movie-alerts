@@ -113,11 +113,23 @@
     "booking_open": false,
     "genre": "Adventure"
   },
+  "the-weight": {
+    "title": "The Weight",
+    "url": "/movies/the-weight",
+    "booking_open": false,
+    "genre": "Action"
+  },
   "pressure": {
     "title": "Pressure",
     "url": "/movies/pressure",
     "booking_open": false,
     "genre": "Drama"
+  },
+  "just-play-dead": {
+    "title": "Just Play Dead",
+    "url": "/movies/just-play-dead",
+    "booking_open": false,
+    "genre": "Thriller"
   },
   "resident-evil": {
     "title": "Resident Evil",
@@ -179,11 +191,23 @@
     "booking_open": false,
     "genre": "Comedy"
   },
+  "bts-world-tour-arirang-in-buenos-aires-live": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: LIVE",
+    "url": "/movies/bts-world-tour-arirang-in-buenos-aires-live",
+    "booking_open": false,
+    "genre": "Concert"
+  },
   "the-mongoose": {
     "title": "The Mongoose",
     "url": "/movies/the-mongoose",
     "booking_open": false,
     "genre": "Action"
+  },
+  "bts-world-tour-arirang-in-s-o-paulo-live": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
+    "url": "/movies/bts-world-tour-arirang-in-s-o-paulo-live",
+    "booking_open": false,
+    "genre": "Concert"
   },
   "the-cat-in-the-hat": {
     "title": "The Cat In The Hat",
