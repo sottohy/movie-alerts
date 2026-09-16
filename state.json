@@ -71,12 +71,6 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "el-set-lamma-arabic": {
-    "title": "El Set Lamma",
-    "url": "/movies/el-set-lamma-arabic",
-    "booking_open": true,
-    "genre": "Comedy"
-  },
   "mutiny": {
     "title": "Mutiny",
     "url": "/movies/mutiny",
@@ -94,12 +88,6 @@
     "url": "/movies/paw-patrol-the-dino-movie",
     "booking_open": true,
     "genre": "Animation"
-  },
-  "runner": {
-    "title": "Runner",
-    "url": "/movies/runner",
-    "booking_open": true,
-    "genre": "Action"
   },
   "just-play-dead": {
     "title": "Just Play Dead",
