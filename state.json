@@ -53,6 +53,12 @@
     "booking_open": true,
     "genre": "Comedy"
   },
+  "tad-and-the-magic-lamp": {
+    "title": "Tad and the Magic Lamp",
+    "url": "/movies/tad-and-the-magic-lamp",
+    "booking_open": true,
+    "genre": "Adventure"
+  },
   "khali-balak-min-nafsik-arabic": {
     "title": "Khali Balak Min Nafsik",
     "url": "/movies/khali-balak-min-nafsik-arabic",
@@ -77,12 +83,6 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "the-end-of-oak-street": {
-    "title": "The End of Oak Street",
-    "url": "/movies/the-end-of-oak-street",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
     "url": "/movies/coyote-vs-acme",
@@ -95,47 +95,41 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "cats-in-the-museum-treasures-of-egypt": {
-    "title": "Cats in the Museum: Treasures of Egypt",
-    "url": "/movies/cats-in-the-museum-treasures-of-egypt",
-    "booking_open": true,
-    "genre": "Family"
-  },
   "runner": {
     "title": "Runner",
     "url": "/movies/runner",
     "booking_open": true,
     "genre": "Action"
   },
-  "the-bay": {
-    "title": "The Bay",
-    "url": "/movies/the-bay",
+  "just-play-dead": {
+    "title": "Just Play Dead",
+    "url": "/movies/just-play-dead",
     "booking_open": true,
     "genre": "Thriller"
-  },
-  "tad-and-the-magic-lamp": {
-    "title": "Tad and the Magic Lamp",
-    "url": "/movies/tad-and-the-magic-lamp",
-    "booking_open": false,
-    "genre": "Adventure"
-  },
-  "the-weight": {
-    "title": "The Weight",
-    "url": "/movies/the-weight",
-    "booking_open": false,
-    "genre": "Action"
   },
   "pressure": {
     "title": "Pressure",
     "url": "/movies/pressure",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
-  "just-play-dead": {
-    "title": "Just Play Dead",
-    "url": "/movies/just-play-dead",
-    "booking_open": false,
-    "genre": "Thriller"
+  "the-weight": {
+    "title": "The Weight",
+    "url": "/movies/the-weight",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "avengers-endgame-encore": {
+    "title": "Avengers Endgame: Encore",
+    "url": "/movies/avengers-endgame-encore",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "avengers-endgame-encore-infinity-vision": {
+    "title": "Avengers Endgame: Encore (Infinity Vision)",
+    "url": "/movies/avengers-endgame-encore-infinity-vision",
+    "booking_open": true,
+    "genre": "Action"
   },
   "heart-of-the-beast": {
     "title": "Heart of the Beast",
@@ -148,18 +142,6 @@
     "url": "/movies/the-smurfs-timeless-adventure-volume-2",
     "booking_open": false,
     "genre": "Adventure"
-  },
-  "avengers-endgame-encore": {
-    "title": "Avengers Endgame: Encore",
-    "url": "/movies/avengers-endgame-encore",
-    "booking_open": false,
-    "genre": "Action"
-  },
-  "avengers-endgame-encore-infinity-vision": {
-    "title": "Avengers Endgame: Encore (Infinity Vision)",
-    "url": "/movies/avengers-endgame-encore-infinity-vision",
-    "booking_open": false,
-    "genre": "Action"
   },
   "shish-dou-arabic": {
     "title": "Shish Dou",
