@@ -5,6 +5,12 @@
     "booking_open": true,
     "genre": "Comedy"
   },
+  "resident-evil": {
+    "title": "Resident Evil",
+    "url": "/movies/resident-evil",
+    "booking_open": true,
+    "genre": "Horror"
+  },
   "mahmoud-el-tany-arabic": {
     "title": "Mahmoud El Tany",
     "url": "/movies/mahmoud-el-tany-arabic",
@@ -29,17 +35,17 @@
     "booking_open": true,
     "genre": "Horror"
   },
-  "practical-magic-2": {
-    "title": "Practical Magic 2",
-    "url": "/movies/practical-magic-2",
-    "booking_open": true,
-    "genre": "Sci-fi"
-  },
   "fall-2-deadpoint": {
     "title": "Fall 2: Deadpoint",
     "url": "/movies/fall-2-deadpoint",
     "booking_open": true,
     "genre": "Thriller"
+  },
+  "practical-magic-2": {
+    "title": "Practical Magic 2",
+    "url": "/movies/practical-magic-2",
+    "booking_open": true,
+    "genre": "Sci-fi"
   },
   "el-gawahergy-arabic": {
     "title": "El Gawahergy",
@@ -106,12 +112,6 @@
     "url": "/movies/the-bay",
     "booking_open": true,
     "genre": "Thriller"
-  },
-  "resident-evil": {
-    "title": "Resident Evil",
-    "url": "/movies/resident-evil",
-    "booking_open": true,
-    "genre": "Horror"
   },
   "tad-and-the-magic-lamp": {
     "title": "Tad and the Magic Lamp",
