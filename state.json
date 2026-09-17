@@ -185,6 +185,12 @@
     "booking_open": false,
     "genre": "Animation"
   },
+  "godzilla-minus-zero-japanese": {
+    "title": "Godzilla Minus Zero",
+    "url": "/movies/godzilla-minus-zero-japanese",
+    "booking_open": false,
+    "genre": "Horror"
+  },
   "hexed": {
     "title": "Hexed",
     "url": "/movies/hexed",
