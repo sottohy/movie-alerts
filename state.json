@@ -155,6 +155,12 @@
     "booking_open": false,
     "genre": "Thriller"
   },
+  "sense-and-sensibility": {
+    "title": "Sense and Sensibility",
+    "url": "/movies/sense-and-sensibility",
+    "booking_open": false,
+    "genre": "Drama"
+  },
   "klara-and-the-sun": {
     "title": "Klara and the Sun",
     "url": "/movies/klara-and-the-sun",
@@ -190,6 +196,12 @@
     "url": "/movies/godzilla-minus-zero-japanese",
     "booking_open": false,
     "genre": "Horror"
+  },
+  "wala-kan-ala-el-bal-arabic": {
+    "title": "Wala Kan Ala El-Bal",
+    "url": "/movies/wala-kan-ala-el-bal-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
   },
   "hexed": {
     "title": "Hexed",
