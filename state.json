@@ -131,6 +131,12 @@
     "booking_open": false,
     "genre": "Adventure"
   },
+  "crawlers": {
+    "title": "Crawlers",
+    "url": "/movies/crawlers",
+    "booking_open": false,
+    "genre": "Thriller"
+  },
   "shish-dou-arabic": {
     "title": "Shish Dou",
     "url": "/movies/shish-dou-arabic",
