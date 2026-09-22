@@ -89,12 +89,6 @@
     "booking_open": true,
     "genre": "Animation"
   },
-  "just-play-dead": {
-    "title": "Just Play Dead",
-    "url": "/movies/just-play-dead",
-    "booking_open": true,
-    "genre": "Thriller"
-  },
   "pressure": {
     "title": "Pressure",
     "url": "/movies/pressure",
@@ -148,6 +142,12 @@
     "url": "/movies/verity",
     "booking_open": false,
     "genre": "Crime"
+  },
+  "other-mommy": {
+    "title": "Other Mommy",
+    "url": "/movies/other-mommy",
+    "booking_open": false,
+    "genre": "Horror"
   },
   "the-dino-family": {
     "title": "The Dino Family",
