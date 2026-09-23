@@ -185,6 +185,12 @@
     "booking_open": false,
     "genre": "Action"
   },
+  "wala-kan-ala-el-bal-arabic": {
+    "title": "Wala Kan Ala El-Bal",
+    "url": "/movies/wala-kan-ala-el-bal-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
   "bts-world-tour-arirang-in-s-o-paulo-live": {
     "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
     "url": "/movies/bts-world-tour-arirang-in-s-o-paulo-live",
@@ -202,12 +208,6 @@
     "url": "/movies/godzilla-minus-zero-japanese",
     "booking_open": false,
     "genre": "Horror"
-  },
-  "wala-kan-ala-el-bal-arabic": {
-    "title": "Wala Kan Ala El-Bal",
-    "url": "/movies/wala-kan-ala-el-bal-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
   },
   "hexed": {
     "title": "Hexed",
