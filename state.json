@@ -1,4 +1,10 @@
 {
+  "avengers-endgame-encore-infinity-vision": {
+    "title": "Avengers Endgame: Encore (Infinity Vision)",
+    "url": "/movies/avengers-endgame-encore-infinity-vision",
+    "booking_open": true,
+    "genre": "Action"
+  },
   "red-flag-arabic": {
     "title": "Red Flag",
     "url": "/movies/red-flag-arabic",
@@ -10,6 +16,18 @@
     "url": "/movies/resident-evil",
     "booking_open": true,
     "genre": "Horror"
+  },
+  "heart-of-the-beast": {
+    "title": "Heart of the Beast",
+    "url": "/movies/heart-of-the-beast",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "shish-dou-arabic": {
+    "title": "Shish Dou",
+    "url": "/movies/shish-dou-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
   },
   "mahmoud-el-tany-arabic": {
     "title": "Mahmoud El Tany",
@@ -34,6 +52,18 @@
     "url": "/movies/insidious-out-of-the-further",
     "booking_open": true,
     "genre": "Horror"
+  },
+  "the-smurfs-timeless-adventure-volume-2": {
+    "title": "The Smurfs Timeless Adventure Volume 2",
+    "url": "/movies/the-smurfs-timeless-adventure-volume-2",
+    "booking_open": true,
+    "genre": "Adventure"
+  },
+  "avengers-endgame-encore": {
+    "title": "Avengers Endgame: Encore",
+    "url": "/movies/avengers-endgame-encore",
+    "booking_open": true,
+    "genre": "Action"
   },
   "fall-2-deadpoint": {
     "title": "Fall 2: Deadpoint",
@@ -101,41 +131,17 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "avengers-endgame-encore": {
-    "title": "Avengers Endgame: Encore",
-    "url": "/movies/avengers-endgame-encore",
-    "booking_open": true,
-    "genre": "Action"
-  },
-  "avengers-endgame-encore-infinity-vision": {
-    "title": "Avengers Endgame: Encore (Infinity Vision)",
-    "url": "/movies/avengers-endgame-encore-infinity-vision",
-    "booking_open": true,
-    "genre": "Action"
-  },
-  "heart-of-the-beast": {
-    "title": "Heart of the Beast",
-    "url": "/movies/heart-of-the-beast",
-    "booking_open": false,
-    "genre": "Action"
-  },
-  "the-smurfs-timeless-adventure-volume-2": {
-    "title": "The Smurfs Timeless Adventure Volume 2",
-    "url": "/movies/the-smurfs-timeless-adventure-volume-2",
-    "booking_open": false,
-    "genre": "Adventure"
-  },
   "crawlers": {
     "title": "Crawlers",
     "url": "/movies/crawlers",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Thriller"
   },
-  "shish-dou-arabic": {
-    "title": "Shish Dou",
-    "url": "/movies/shish-dou-arabic",
-    "booking_open": false,
-    "genre": "Comedy"
+  "spider-island": {
+    "title": "Spider Island",
+    "url": "/movies/spider-island",
+    "booking_open": true,
+    "genre": "Horror"
   },
   "verity": {
     "title": "Verity",
