@@ -95,12 +95,6 @@
     "booking_open": true,
     "genre": "Comedy"
   },
-  "the-uprising": {
-    "title": "The Uprising",
-    "url": "/movies/the-uprising",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
     "url": "/movies/coyote-vs-acme",
@@ -118,12 +112,6 @@
     "url": "/movies/pressure",
     "booking_open": true,
     "genre": "Drama"
-  },
-  "the-weight": {
-    "title": "The Weight",
-    "url": "/movies/the-weight",
-    "booking_open": true,
-    "genre": "Action"
   },
   "crawlers": {
     "title": "Crawlers",
