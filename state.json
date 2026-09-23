@@ -101,12 +101,6 @@
     "booking_open": true,
     "genre": "Action"
   },
-  "mutiny": {
-    "title": "Mutiny",
-    "url": "/movies/mutiny",
-    "booking_open": true,
-    "genre": "Action"
-  },
   "coyote-vs-acme": {
     "title": "Coyote VS Acme",
     "url": "/movies/coyote-vs-acme",
