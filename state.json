@@ -125,6 +125,18 @@
     "booking_open": true,
     "genre": "Horror"
   },
+  "bts-world-tour-arirang-in-buenos-aires-live": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: LIVE",
+    "url": "/movies/bts-world-tour-arirang-in-buenos-aires-live",
+    "booking_open": true,
+    "genre": "Concert"
+  },
+  "bts-world-tour-arirang-in-s-o-paulo-live": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
+    "url": "/movies/bts-world-tour-arirang-in-s-o-paulo-live",
+    "booking_open": true,
+    "genre": "Concert"
+  },
   "verity": {
     "title": "Verity",
     "url": "/movies/verity",
@@ -136,6 +148,18 @@
     "url": "/movies/other-mommy",
     "booking_open": false,
     "genre": "Horror"
+  },
+  "matloub-3a2eleyain-arabic": {
+    "title": "Matloub 3a2eleyain",
+    "url": "/movies/matloub-3a2eleyain-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "always-lalisa-english-korean-thai": {
+    "title": "Always Lalisa",
+    "url": "/movies/always-lalisa-english-korean-thai",
+    "booking_open": false,
+    "genre": "Musical"
   },
   "the-dino-family": {
     "title": "The Dino Family",
@@ -161,12 +185,6 @@
     "booking_open": false,
     "genre": "Comedy"
   },
-  "bts-world-tour-arirang-in-buenos-aires-live": {
-    "title": "BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: LIVE",
-    "url": "/movies/bts-world-tour-arirang-in-buenos-aires-live",
-    "booking_open": false,
-    "genre": "Concert"
-  },
   "the-mongoose": {
     "title": "The Mongoose",
     "url": "/movies/the-mongoose",
@@ -179,11 +197,17 @@
     "booking_open": false,
     "genre": "Comedy"
   },
-  "bts-world-tour-arirang-in-s-o-paulo-live": {
-    "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
-    "url": "/movies/bts-world-tour-arirang-in-s-o-paulo-live",
+  "the-influencer-project": {
+    "title": "The Influencer Project",
+    "url": "/movies/the-influencer-project",
     "booking_open": false,
-    "genre": "Concert"
+    "genre": "Horror"
+  },
+  "wildwood": {
+    "title": "Wildwood",
+    "url": "/movies/wildwood",
+    "booking_open": false,
+    "genre": "Family"
   },
   "the-cat-in-the-hat": {
     "title": "The Cat In The Hat",
@@ -196,6 +220,12 @@
     "url": "/movies/godzilla-minus-zero-japanese",
     "booking_open": false,
     "genre": "Horror"
+  },
+  "the-hunger-games-sunrise-on-the-reaping": {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "url": "/movies/the-hunger-games-sunrise-on-the-reaping",
+    "booking_open": false,
+    "genre": "Action"
   },
   "hexed": {
     "title": "Hexed",
