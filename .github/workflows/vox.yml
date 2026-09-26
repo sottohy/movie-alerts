@@ -4,10 +4,10 @@ on:
   schedule:
     # Horror: every three hours, at minute 17 (UTC).
     - cron: "17 */3 * * *"
-    # Doomsday: every five minutes, November–December (UTC).
-    - cron: "2-59/5 * * 11-12 *"
-    # Verity: every five minutes, year-round (UTC).
-    - cron: "2-59/5 * * * *"
+    # Doomsday: every fifteen minutes, November–December (UTC).
+    - cron: "2,17,32,47 * * 11-12 *"
+    # Verity: every fifteen minutes, year-round (UTC).
+    - cron: "2,17,32,47 * * * *"
   workflow_dispatch:
     inputs:
       channel:
