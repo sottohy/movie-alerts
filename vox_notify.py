@@ -12,15 +12,18 @@ BASE = "https://egy.voxcinemas.com"
 
 NTFY_HORROR_TOPIC = os.environ.get("NTFY_HORROR_TOPIC")
 NTFY_DOOMSDAY_TOPIC = os.environ.get("NTFY_DOOMSDAY_TOPIC")
+NTFY_VERITY_TOPIC = os.environ.get("NTFY_VERITY_TOPIC")
 NTFY_ERROR_TOPIC = os.environ.get("NTFY_ERROR_TOPIC")
 
 GENRES = {"horror"}
 WATCHLIST = {"Avengers: Doomsday"}
+VERITY_TITLE = "Verity"
 
 STATE_FILE = "state.json"
 STATE_FILES = {
     "horror": "state_horror.json",
     "doomsday": "state_doomsday.json",
+    "verity": "state_verity.json",
 }
 
 # "full" = horror + watchlist
@@ -267,6 +270,51 @@ def run_doomsday_check():
         return 1
 
 
+def run_verity_check():
+    print("Running Verity-only check...")
+
+    try:
+        current = get_all_listings()
+
+        if not current:
+            raise RuntimeError("No films parsed - page structure may have changed.")
+
+        path = STATE_FILES["verity"]
+        state = load_state(path)
+
+        if not state and os.path.exists(STATE_FILE):
+            state = load_state(STATE_FILE)
+
+        verity_found = False
+
+        for slug, film in current.items():
+            if film["title"] != VERITY_TITLE:
+                continue
+
+            verity_found = True
+            prev = state.get(slug)
+            was_open = bool(prev and prev.get("booking_open"))
+            is_open = film["booking_open"]
+            print(f"{film['title']}: previous={was_open}, current={is_open}")
+            film["genre"] = prev.get("genre") if prev else None
+
+            if is_open and not was_open:
+                notify(film, NTFY_VERITY_TOPIC)
+                print("VERITY ALERT:", film["title"])
+
+            state[slug] = film
+
+        if not verity_found:
+            raise RuntimeError("Verity not found in VOX listings.")
+
+        save_state(state, path)
+        return 0
+
+    except Exception as exc:
+        notify_error("verity", _error_message(exc))
+        return 1
+
+
 def run_horror_check():
     print("Running full movie check...")
 
@@ -336,6 +384,9 @@ def run(channel):
     if channel == "doomsday":
         return run_doomsday_check()
 
+    if channel == "verity":
+        return run_verity_check()
+
     if channel == "horror":
         return run_horror_check()
 
@@ -344,8 +395,15 @@ def run(channel):
 
 def main():
     parser = argparse.ArgumentParser(description="Run the VOX booking checker.")
-    parser.add_argument("--channel", choices=("all", "horror", "doomsday"), default="all")
+    parser.add_argument("--channel", choices=("all", "horror", "doomsday", "verity"), default="all")
     args = parser.parse_args()
+
+    if args.channel == "verity":
+        if not NTFY_VERITY_TOPIC:
+            sys.exit("Set NTFY_VERITY_TOPIC.")
+        if NTFY_VERITY_TOPIC in {NTFY_HORROR_TOPIC, NTFY_DOOMSDAY_TOPIC}:
+            sys.exit("Use different topics for horror, Avengers: Doomsday, and Verity alerts.")
+        raise SystemExit(run(args.channel))
 
     if not NTFY_HORROR_TOPIC or not NTFY_DOOMSDAY_TOPIC:
         sys.exit("Set both NTFY_HORROR_TOPIC and NTFY_DOOMSDAY_TOPIC.")

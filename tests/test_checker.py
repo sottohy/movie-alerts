@@ -42,6 +42,13 @@ class CheckerTests(unittest.TestCase):
             v.run('horror')
             self.assertEqual(notify.call_count, 2)
 
+    def test_verity_uses_its_own_state_and_topic(self):
+        self.current['verity'] = {'title': 'Verity', 'url': '/movies/verity', 'genre': 'Thriller', 'booking_open': True}
+        with patch.object(v, 'listing', side_effect=lambda _: copy.deepcopy(self.current)), patch.object(v, 'notify') as notify, patch.object(v, 'NTFY_VERITY_TOPIC', 'verity-topic', create=True):
+            self.assertEqual(v.run('verity'), 0)
+            self.assertTrue(Path('state_verity.json').exists())
+            self.assertEqual(notify.call_args.args[1], 'verity-topic')
+
     def test_blocking_reports_error_without_advancing_state(self):
         response = requests.Response()
         response.status_code = 403

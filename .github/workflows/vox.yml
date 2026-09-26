@@ -10,6 +10,10 @@ on:
     # every 5 minutes during October–December
     - cron: "2-59/5 * * 11-12 *"
 
+    # Verity high-priority monitoring:
+    # every 5 minutes all year, starting immediately
+    - cron: "2-59/5 * * * *"
+
   # Allow manual runs from GitHub
   workflow_dispatch:
 
@@ -64,6 +68,14 @@ jobs:
           NTFY_DOOMSDAY_TOPIC: ${{ secrets.NTFY_DOOMSDAY_TOPIC }}
           NTFY_ERROR_TOPIC: ${{ secrets.NTFY_ERROR_TOPIC }}
         run: python vox_notify.py
+
+      - name: Run Verity alerter
+        env:
+          NTFY_HORROR_TOPIC: ${{ secrets.NTFY_HORROR_TOPIC }}
+          NTFY_DOOMSDAY_TOPIC: ${{ secrets.NTFY_DOOMSDAY_TOPIC }}
+          NTFY_VERITY_TOPIC: ${{ secrets.NTFY_VERITY_TOPIC }}
+          NTFY_ERROR_TOPIC: ${{ secrets.NTFY_ERROR_TOPIC }}
+        run: python vox_notify.py --channel verity
 
 
       - name: Commit updated state
