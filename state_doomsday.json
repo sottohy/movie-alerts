@@ -1,0 +1,254 @@
+{
+  "avengers-endgame-encore-infinity-vision": {
+    "title": "Avengers Endgame: Encore (Infinity Vision)",
+    "url": "/movies/avengers-endgame-encore-infinity-vision",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "red-flag-arabic": {
+    "title": "Red Flag",
+    "url": "/movies/red-flag-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "resident-evil": {
+    "title": "Resident Evil",
+    "url": "/movies/resident-evil",
+    "booking_open": true,
+    "genre": "Horror"
+  },
+  "heart-of-the-beast": {
+    "title": "Heart of the Beast",
+    "url": "/movies/heart-of-the-beast",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "shish-dou-arabic": {
+    "title": "Shish Dou",
+    "url": "/movies/shish-dou-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "mahmoud-el-tany-arabic": {
+    "title": "Mahmoud El Tany",
+    "url": "/movies/mahmoud-el-tany-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "spider-man-brand-new-day": {
+    "title": "Spider-Man: Brand New Day",
+    "url": "/movies/spider-man-brand-new-day",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "the-odyssey": {
+    "title": "The Odyssey",
+    "url": "/movies/the-odyssey",
+    "booking_open": true,
+    "genre": "Adventure"
+  },
+  "insidious-out-of-the-further": {
+    "title": "Insidious: Out Of The Further",
+    "url": "/movies/insidious-out-of-the-further",
+    "booking_open": true,
+    "genre": "Horror"
+  },
+  "the-smurfs-timeless-adventure-volume-2": {
+    "title": "The Smurfs Timeless Adventure Volume 2",
+    "url": "/movies/the-smurfs-timeless-adventure-volume-2",
+    "booking_open": true,
+    "genre": "Adventure"
+  },
+  "avengers-endgame-encore": {
+    "title": "Avengers Endgame: Encore",
+    "url": "/movies/avengers-endgame-encore",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "fall-2-deadpoint": {
+    "title": "Fall 2: Deadpoint",
+    "url": "/movies/fall-2-deadpoint",
+    "booking_open": true,
+    "genre": "Thriller"
+  },
+  "practical-magic-2": {
+    "title": "Practical Magic 2",
+    "url": "/movies/practical-magic-2",
+    "booking_open": true,
+    "genre": "Sci-fi"
+  },
+  "el-gawahergy-arabic": {
+    "title": "El Gawahergy",
+    "url": "/movies/el-gawahergy-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "tad-and-the-magic-lamp": {
+    "title": "Tad and the Magic Lamp",
+    "url": "/movies/tad-and-the-magic-lamp",
+    "booking_open": true,
+    "genre": "Adventure"
+  },
+  "khali-balak-min-nafsik-arabic": {
+    "title": "Khali Balak Min Nafsik",
+    "url": "/movies/khali-balak-min-nafsik-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "coyote-vs-acme": {
+    "title": "Coyote VS Acme",
+    "url": "/movies/coyote-vs-acme",
+    "booking_open": true,
+    "genre": "Animation"
+  },
+  "paw-patrol-the-dino-movie": {
+    "title": "Paw Patrol: The Dino Movie",
+    "url": "/movies/paw-patrol-the-dino-movie",
+    "booking_open": true,
+    "genre": "Animation"
+  },
+  "pressure": {
+    "title": "Pressure",
+    "url": "/movies/pressure",
+    "booking_open": true,
+    "genre": "Drama"
+  },
+  "crawlers": {
+    "title": "Crawlers",
+    "url": "/movies/crawlers",
+    "booking_open": true,
+    "genre": "Thriller"
+  },
+  "spider-island": {
+    "title": "Spider Island",
+    "url": "/movies/spider-island",
+    "booking_open": true,
+    "genre": "Horror"
+  },
+  "bts-world-tour-arirang-in-buenos-aires-live": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: LIVE",
+    "url": "/movies/bts-world-tour-arirang-in-buenos-aires-live",
+    "booking_open": true,
+    "genre": "Concert"
+  },
+  "bts-world-tour-arirang-in-s-o-paulo-live": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
+    "url": "/movies/bts-world-tour-arirang-in-s-o-paulo-live",
+    "booking_open": true,
+    "genre": "Concert"
+  },
+  "verity": {
+    "title": "Verity",
+    "url": "/movies/verity",
+    "booking_open": false,
+    "genre": "Crime"
+  },
+  "other-mommy": {
+    "title": "Other Mommy",
+    "url": "/movies/other-mommy",
+    "booking_open": false,
+    "genre": "Horror"
+  },
+  "matloub-3a2eleyain-arabic": {
+    "title": "Matloub 3a2eleyain",
+    "url": "/movies/matloub-3a2eleyain-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "always-lalisa-english-korean-thai": {
+    "title": "Always Lalisa",
+    "url": "/movies/always-lalisa-english-korean-thai",
+    "booking_open": false,
+    "genre": "Musical"
+  },
+  "the-dino-family": {
+    "title": "The Dino Family",
+    "url": "/movies/the-dino-family",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "whalefall": {
+    "title": "Whalefall",
+    "url": "/movies/whalefall",
+    "booking_open": false,
+    "genre": "Thriller"
+  },
+  "sense-and-sensibility": {
+    "title": "Sense and Sensibility",
+    "url": "/movies/sense-and-sensibility",
+    "booking_open": false,
+    "genre": "Drama"
+  },
+  "klara-and-the-sun": {
+    "title": "Klara and the Sun",
+    "url": "/movies/klara-and-the-sun",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "the-mongoose": {
+    "title": "The Mongoose",
+    "url": "/movies/the-mongoose",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "wala-kan-ala-el-bal-arabic": {
+    "title": "Wala Kan Ala El-Bal",
+    "url": "/movies/wala-kan-ala-el-bal-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "the-influencer-project": {
+    "title": "The Influencer Project",
+    "url": "/movies/the-influencer-project",
+    "booking_open": false,
+    "genre": "Horror"
+  },
+  "wildwood": {
+    "title": "Wildwood",
+    "url": "/movies/wildwood",
+    "booking_open": false,
+    "genre": "Family"
+  },
+  "the-cat-in-the-hat": {
+    "title": "The Cat In The Hat",
+    "url": "/movies/the-cat-in-the-hat",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "godzilla-minus-zero-japanese": {
+    "title": "Godzilla Minus Zero",
+    "url": "/movies/godzilla-minus-zero-japanese",
+    "booking_open": false,
+    "genre": "Horror"
+  },
+  "the-hunger-games-sunrise-on-the-reaping": {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "url": "/movies/the-hunger-games-sunrise-on-the-reaping",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "hexed": {
+    "title": "Hexed",
+    "url": "/movies/hexed",
+    "booking_open": false,
+    "genre": "Adventure"
+  },
+  "violent-night-2": {
+    "title": "Violent Night 2",
+    "url": "/movies/violent-night-2",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "avengers-doomsday": {
+    "title": "Avengers: Doomsday",
+    "url": "/movies/avengers-doomsday",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "children-of-blood-and-bone": {
+    "title": "Children of Blood and Bone",
+    "url": "/movies/children-of-blood-and-bone",
+    "booking_open": false,
+    "genre": "Action"
+  }
+}
