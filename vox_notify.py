@@ -26,10 +26,6 @@ STATE_FILES = {
     "verity": "state_verity.json",
 }
 
-# "full" = horror + watchlist
-# "doomsday" = lightweight Doomsday-only check
-RUN_MODE = os.environ.get("RUN_MODE", "full")
-
 UA = {
     "User-Agent": "curl/8.8.0"
 }

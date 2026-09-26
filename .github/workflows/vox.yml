@@ -2,43 +2,38 @@ name: VOX booking alerts
 
 on:
   schedule:
-
-    # Full horror/movie scan every 3 hours
+    # Horror: every three hours, at minute 17 (UTC).
     - cron: "17 */3 * * *"
-
-    # Doomsday high-priority monitoring:
-    # every 5 minutes during October–December
+    # Doomsday: every five minutes, November–December (UTC).
     - cron: "2-59/5 * * 11-12 *"
-
-    # Verity high-priority monitoring:
-    # every 5 minutes all year, starting immediately
+    # Verity: every five minutes, year-round (UTC).
     - cron: "2-59/5 * * * *"
-
-  # Allow manual runs from GitHub
   workflow_dispatch:
+    inputs:
+      channel:
+        description: Movie channel to check
+        type: choice
+        options:
+          - horror
+          - doomsday
+          - verity
+        default: horror
+        required: true
 
-
-# Needed to push state.json back to the repository
 permissions:
   contents: write
 
-
-# Prevent simultaneous runs from racing on state.json
+# Serialize checks and state commits across all channels.
 concurrency:
   group: vox-alerts
   cancel-in-progress: false
 
-
 jobs:
   check:
-
     runs-on: ubuntu-latest
-
     steps:
-
       - name: Checkout
         uses: actions/checkout@v4
-
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -46,45 +41,47 @@ jobs:
           python-version: "3.13"
           cache: pip
 
-
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-
-      - name: Determine run mode
+      - name: Determine channel
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          MANUAL_CHANNEL: ${{ inputs.channel }}
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && {
-            [ "$(date -u +%-m)" = "11" ] || [ "$(date -u +%-m)" = "12" ];
-          }; then
-            echo "RUN_MODE=doomsday" >> "$GITHUB_ENV"
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            channel="$MANUAL_CHANNEL"
           else
-            echo "RUN_MODE=full" >> "$GITHUB_ENV"
+            case "$SCHEDULE" in
+              '17 */3 * * *') channel=horror ;;
+              '2-59/5 * * 11-12 *') channel=doomsday ;;
+              '2-59/5 * * * *') channel=verity ;;
+              *) echo "Unknown schedule" >&2; exit 1 ;;
+            esac
           fi
-
+          case "$channel" in
+            horror|doomsday|verity) echo "CHANNEL=$channel" >> "$GITHUB_ENV" ;;
+            *) echo "Unknown channel" >&2; exit 1 ;;
+          esac
 
       - name: Run alerter
         env:
           NTFY_HORROR_TOPIC: ${{ secrets.NTFY_HORROR_TOPIC }}
           NTFY_DOOMSDAY_TOPIC: ${{ secrets.NTFY_DOOMSDAY_TOPIC }}
-          NTFY_ERROR_TOPIC: ${{ secrets.NTFY_ERROR_TOPIC }}
-        run: python vox_notify.py
-
-      - name: Run Verity alerter
-        env:
-          NTFY_HORROR_TOPIC: ${{ secrets.NTFY_HORROR_TOPIC }}
-          NTFY_DOOMSDAY_TOPIC: ${{ secrets.NTFY_DOOMSDAY_TOPIC }}
           NTFY_VERITY_TOPIC: ${{ secrets.NTFY_VERITY_TOPIC }}
           NTFY_ERROR_TOPIC: ${{ secrets.NTFY_ERROR_TOPIC }}
-        run: python vox_notify.py --channel verity
-
+        run: python vox_notify.py --channel "$CHANNEL"
 
       - name: Commit updated state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add state.json
-
+          for file in state_horror.json state_doomsday.json state_verity.json; do
+            if [ -f "$file" ]; then
+              git add -- "$file"
+            fi
+          done
           if git diff --cached --quiet; then
             echo "No state changes to commit."
           else

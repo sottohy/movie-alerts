@@ -91,15 +91,21 @@ python test_notification.py errors
 
 ## Running on a schedule (GitHub Actions)
 
-`.github/workflows/vox.yml` has two schedules (UTC):
+`.github/workflows/vox.yml` has three schedules (UTC):
 
-- Horror: every three hours, year-round (`0 */3 * * *`).
-- Doomsday: minutes 2, 17, 32, and 47 of every hour during November and December
-  (`2,17,32,47 * * 11,12 *`). This repeats annually; Doomsday has no scheduled checks
-  outside those months.
+- Horror: every three hours at minute 17 (`17 */3 * * *`).
+- Doomsday: minutes 2, 7, 12, …, 57 of every hour during November and December
+  (`2-59/5 * * 11-12 *`). This repeats annually.
+- Verity: minutes 2, 7, 12, …, 57 of every hour, year-round
+  (`2-59/5 * * * *`).
 
-Manual runs can select `all`, `horror`, or `doomsday`. Locally, use
-`python vox_notify.py --channel doomsday` (or `horror`; default is `all`).
+Each scheduled run selects only the channel corresponding to the triggering cron
+expression. Manual runs offer a `channel` choice: `horror`, `doomsday`, or `verity`
+(default: `horror`). Locally, use `python vox_notify.py --channel verity` or select
+`horror` or `doomsday`. The local default `all` checks horror and Doomsday only.
+
+Successful runs commit `state_horror.json`, `state_doomsday.json`, and
+`state_verity.json` when present. Failed runs do not execute the commit step.
 
 Each checker saves its own state so frequent Doomsday checks cannot consume horror
 booking transitions. On migration, each uses the existing `state.json` as its
@@ -124,7 +130,7 @@ Errors go to a dedicated ntfy topic, separate from both movie channels.
 1. Choose a different, hard-to-guess topic name for errors and subscribe to it
    in the ntfy app.
 2. Add a GitHub Actions repository secret named `NTFY_ERROR_TOPIC` with that
-   topic name. The workflow passes it to the checker on both schedules.
+   topic name. The workflow passes it to the checker on all three schedules.
 3. For local runs, export the same variable. To send a real test error alert:
 
    ```bash
