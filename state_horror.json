@@ -152,7 +152,7 @@
   "matloub-3a2eleyain-arabic": {
     "title": "Matloub 3a2eleyain",
     "url": "/movies/matloub-3a2eleyain-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Comedy"
   },
   "always-lalisa-english-korean-thai": {
@@ -256,5 +256,41 @@
     "url": "/movies/avengers-doomsday-infinity-vision",
     "booking_open": false,
     "genre": "Action"
+  },
+  "digger": {
+    "title": "Digger",
+    "url": "/movies/digger",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "gator-face": {
+    "title": "Gator Face",
+    "url": "/movies/gator-face",
+    "booking_open": false,
+    "genre": "Horror"
+  },
+  "tomorrow-x-together-world-tour-act-tomorrow": {
+    "title": "TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW'",
+    "url": "/movies/tomorrow-x-together-world-tour-act-tomorrow",
+    "booking_open": false,
+    "genre": "Concert"
+  },
+  "enhypen-world-tour-blood-saga": {
+    "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
+    "url": "/movies/enhypen-world-tour-blood-saga",
+    "booking_open": false,
+    "genre": "Concert"
+  },
+  "hybe-cheering-party": {
+    "title": "HYBE CHEERING PARTY",
+    "url": "/movies/hybe-cheering-party",
+    "booking_open": false,
+    "genre": "Concert"
+  },
+  "seventeen-world-tour-new": {
+    "title": "SEVENTEEN WORLD TOUR 'NEW_'",
+    "url": "/movies/seventeen-world-tour-new",
+    "booking_open": false,
+    "genre": "Concert"
   }
 }
