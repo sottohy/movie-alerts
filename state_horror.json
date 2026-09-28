@@ -250,5 +250,11 @@
     "url": "/movies/children-of-blood-and-bone",
     "booking_open": false,
     "genre": "Action"
+  },
+  "avengers-doomsday-infinity-vision": {
+    "title": "Avengers: Doomsday (Infinity Vision)",
+    "url": "/movies/avengers-doomsday-infinity-vision",
+    "booking_open": false,
+    "genre": "Action"
   }
 }
