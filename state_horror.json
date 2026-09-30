@@ -140,7 +140,7 @@
   "verity": {
     "title": "Verity",
     "url": "/movies/verity",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Crime"
   },
   "other-mommy": {
@@ -260,13 +260,13 @@
   "digger": {
     "title": "Digger",
     "url": "/movies/digger",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Comedy"
   },
   "gator-face": {
     "title": "Gator Face",
     "url": "/movies/gator-face",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
   },
   "tomorrow-x-together-world-tour-act-tomorrow": {
@@ -292,5 +292,17 @@
     "url": "/movies/seventeen-world-tour-new",
     "booking_open": false,
     "genre": "Concert"
+  },
+  "cahim-2-turkish": {
+    "title": "Cahim 2",
+    "url": "/movies/cahim-2-turkish",
+    "booking_open": true,
+    "genre": "Horror"
+  },
+  "sacrifice": {
+    "title": "Sacrifice",
+    "url": "/movies/sacrifice",
+    "booking_open": true,
+    "genre": "Action"
   }
 }
