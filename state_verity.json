@@ -140,7 +140,7 @@
   "verity": {
     "title": "Verity",
     "url": "/movies/verity",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Crime"
   },
   "other-mommy": {
