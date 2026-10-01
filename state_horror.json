@@ -304,5 +304,17 @@
     "url": "/movies/sacrifice",
     "booking_open": true,
     "genre": "Action"
+  },
+  "the-florist": {
+    "title": "The Florist",
+    "url": "/movies/the-florist",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "street-fighter": {
+    "title": "Street Fighter",
+    "url": "/movies/street-fighter",
+    "booking_open": false,
+    "genre": "Action"
   }
 }
