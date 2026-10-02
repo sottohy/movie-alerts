@@ -316,5 +316,11 @@
     "url": "/movies/street-fighter",
     "booking_open": false,
     "genre": "Action"
+  },
+  "day-drinker": {
+    "title": "Day Drinker",
+    "url": "/movies/day-drinker",
+    "booking_open": false,
+    "genre": "Action"
   }
 }
