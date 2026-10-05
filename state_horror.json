@@ -322,5 +322,11 @@
     "url": "/movies/day-drinker",
     "booking_open": false,
     "genre": "Action"
+  },
+  "the-shawshank-redemption-re-release": {
+    "title": "The Shawshank Redemption (Re-release)",
+    "url": "/movies/the-shawshank-redemption-re-release",
+    "booking_open": false,
+    "genre": "Drama"
   }
 }
