@@ -146,7 +146,7 @@
   "other-mommy": {
     "title": "Other Mommy",
     "url": "/movies/other-mommy",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
   },
   "matloub-3a2eleyain-arabic": {
@@ -308,7 +308,7 @@
   "the-florist": {
     "title": "The Florist",
     "url": "/movies/the-florist",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "street-fighter": {
@@ -332,13 +332,13 @@
   "beware-boiuna": {
     "title": "Beware Boiuna",
     "url": "/movies/beware-boiuna",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Thriller"
   },
   "the-beast": {
     "title": "The Beast",
     "url": "/movies/the-beast",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   }
 }
