@@ -328,5 +328,17 @@
     "url": "/movies/the-shawshank-redemption-re-release",
     "booking_open": false,
     "genre": "Drama"
+  },
+  "beware-boiuna": {
+    "title": "Beware Boiuna",
+    "url": "/movies/beware-boiuna",
+    "booking_open": false,
+    "genre": "Thriller"
+  },
+  "the-beast": {
+    "title": "The Beast",
+    "url": "/movies/the-beast",
+    "booking_open": false,
+    "genre": "Action"
   }
 }
