@@ -158,7 +158,7 @@
   "always-lalisa-english-korean-thai": {
     "title": "Always Lalisa",
     "url": "/movies/always-lalisa-english-korean-thai",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Musical"
   },
   "the-dino-family": {
