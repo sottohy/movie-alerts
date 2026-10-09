@@ -340,5 +340,11 @@
     "url": "/movies/the-beast",
     "booking_open": true,
     "genre": "Action"
+  },
+  "league-of-legends-worlds26-finals-in-cinemas": {
+    "title": "League of Legends Worlds26 | Finals in Cinemas",
+    "url": "/movies/league-of-legends-worlds26-finals-in-cinemas",
+    "booking_open": false,
+    "genre": "Sports"
   }
 }
