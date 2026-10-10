@@ -346,5 +346,41 @@
     "url": "/movies/league-of-legends-worlds26-finals-in-cinemas",
     "booking_open": false,
     "genre": "Sports"
+  },
+  "siff-2026-born-in-the-jungle": {
+    "title": "SIFF 2026: Born In The Jungle",
+    "url": "/movies/siff-2026-born-in-the-jungle",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "siff-2026-early-grades-shorts-group-1": {
+    "title": "SIFF 2026: Early Grades Shorts (Group 1)",
+    "url": "/movies/siff-2026-early-grades-shorts-group-1",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "siff-2026-early-grades-shorts-group-2": {
+    "title": "SIFF 2026: Early Grades Shorts (Group 2)",
+    "url": "/movies/siff-2026-early-grades-shorts-group-2",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "siff-2026-early-grades-shorts-group-3": {
+    "title": "SIFF 2026: Early Grades Shorts (Group 3)",
+    "url": "/movies/siff-2026-early-grades-shorts-group-3",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "siff-2026-mumbo-jumbo": {
+    "title": "SIFF 2026: Mumbo Jumbo",
+    "url": "/movies/siff-2026-mumbo-jumbo",
+    "booking_open": false,
+    "genre": "Animation"
+  },
+  "siff-2026-special-screening": {
+    "title": "SIFF 2026: Special Screening",
+    "url": "/movies/siff-2026-special-screening",
+    "booking_open": false,
+    "genre": "Animation"
   }
 }
