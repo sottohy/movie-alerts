@@ -382,5 +382,11 @@
     "url": "/movies/siff-2026-special-screening",
     "booking_open": false,
     "genre": "Animation"
+  },
+  "godzilla-minus-zero-preview-screening-japanese": {
+    "title": "Godzilla Minus Zero - Preview Screening",
+    "url": "/movies/godzilla-minus-zero-preview-screening-japanese",
+    "booking_open": false,
+    "genre": "Horror"
   }
 }
