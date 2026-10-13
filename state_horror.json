@@ -170,7 +170,7 @@
   "whalefall": {
     "title": "Whalefall",
     "url": "/movies/whalefall",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Thriller"
   },
   "sense-and-sensibility": {
@@ -314,7 +314,7 @@
   "street-fighter": {
     "title": "Street Fighter",
     "url": "/movies/street-fighter",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "day-drinker": {
@@ -388,5 +388,11 @@
     "url": "/movies/godzilla-minus-zero-preview-screening-japanese",
     "booking_open": false,
     "genre": "Horror"
+  },
+  "the-magic-faraway-tree": {
+    "title": "The Magic Faraway Tree",
+    "url": "/movies/the-magic-faraway-tree",
+    "booking_open": true,
+    "genre": "Family"
   }
 }
