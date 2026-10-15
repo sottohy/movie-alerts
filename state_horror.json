@@ -394,5 +394,23 @@
     "url": "/movies/the-magic-faraway-tree",
     "booking_open": true,
     "genre": "Family"
+  },
+  "naseeb-arabic": {
+    "title": "Naseeb",
+    "url": "/movies/naseeb-arabic",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "hadoota-arabic": {
+    "title": "Hadoota",
+    "url": "/movies/hadoota-arabic",
+    "booking_open": false,
+    "genre": "Drama"
+  },
+  "narnia-the-magicians-nephew": {
+    "title": "Narnia: The Magician's Nephew",
+    "url": "/movies/narnia-the-magicians-nephew",
+    "booking_open": false,
+    "genre": "Adventure"
   }
 }
