@@ -412,5 +412,17 @@
     "url": "/movies/narnia-the-magicians-nephew",
     "booking_open": false,
     "genre": "Adventure"
+  },
+  "bts-world-tour-arirang-in-buenos-aires-delayed": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: DELAYED",
+    "url": "/movies/bts-world-tour-arirang-in-buenos-aires-delayed",
+    "booking_open": false,
+    "genre": "Concert"
+  },
+  "bts-world-tour-arirang-in-s-o-paulo-delayed": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: DELAYED",
+    "url": "/movies/bts-world-tour-arirang-in-s-o-paulo-delayed",
+    "booking_open": false,
+    "genre": "Concert"
   }
 }
