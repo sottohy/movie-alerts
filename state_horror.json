@@ -424,5 +424,11 @@
     "url": "/movies/bts-world-tour-arirang-in-s-o-paulo-delayed",
     "booking_open": false,
     "genre": "Concert"
+  },
+  "soy-turkish": {
+    "title": "Soy",
+    "url": "/movies/soy-turkish",
+    "booking_open": false,
+    "genre": "Thriller"
   }
 }
