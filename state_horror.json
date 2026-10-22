@@ -454,5 +454,23 @@
     "url": "/movies/no-paradise-if-you-are-killed-by-a-woman",
     "booking_open": true,
     "genre": "Action"
+  },
+  "hybe-cheering-party-3d": {
+    "title": "HYBE CHEERING PARTY 3D",
+    "url": "/movies/hybe-cheering-party-3d",
+    "booking_open": true,
+    "genre": "Concert"
+  },
+  "hope-korean": {
+    "title": "Hope",
+    "url": "/movies/hope-korean",
+    "booking_open": false,
+    "genre": "Horror"
+  },
+  "jumanji-open-world": {
+    "title": "Jumanji: Open World",
+    "url": "/movies/jumanji-open-world",
+    "booking_open": false,
+    "genre": "Adventure"
   }
 }
