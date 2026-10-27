@@ -254,7 +254,7 @@
   "avengers-doomsday-infinity-vision": {
     "title": "Avengers: Doomsday (Infinity Vision)",
     "url": "/movies/avengers-doomsday-infinity-vision",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "digger": {
@@ -472,5 +472,11 @@
     "url": "/movies/jumanji-open-world",
     "booking_open": false,
     "genre": "Adventure"
+  },
+  "dune-part-three": {
+    "title": "Dune: Part Three",
+    "url": "/movies/dune-part-three",
+    "booking_open": false,
+    "genre": "Sci-fi"
   }
 }
