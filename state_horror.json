@@ -476,7 +476,7 @@
   "dune-part-three": {
     "title": "Dune: Part Three",
     "url": "/movies/dune-part-three",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Sci-fi"
   }
 }
