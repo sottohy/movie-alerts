@@ -478,5 +478,11 @@
     "url": "/movies/dune-part-three",
     "booking_open": true,
     "genre": "Sci-fi"
+  },
+  "moscow-cairo-arabic": {
+    "title": "Moscow Cairo",
+    "url": "/movies/moscow-cairo-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
   }
 }
