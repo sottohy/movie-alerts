@@ -176,7 +176,7 @@
   "sense-and-sensibility": {
     "title": "Sense and Sensibility",
     "url": "/movies/sense-and-sensibility",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "klara-and-the-sun": {
@@ -188,7 +188,7 @@
   "the-mongoose": {
     "title": "The Mongoose",
     "url": "/movies/the-mongoose",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "wala-kan-ala-el-bal-arabic": {
@@ -200,13 +200,13 @@
   "the-influencer-project": {
     "title": "The Influencer Project",
     "url": "/movies/the-influencer-project",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
   },
   "wildwood": {
     "title": "Wildwood",
     "url": "/movies/wildwood",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Family"
   },
   "the-cat-in-the-hat": {
@@ -464,7 +464,7 @@
   "hope-korean": {
     "title": "Hope",
     "url": "/movies/hope-korean",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
   },
   "jumanji-open-world": {
