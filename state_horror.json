@@ -386,7 +386,7 @@
   "godzilla-minus-zero-preview-screening-japanese": {
     "title": "Godzilla Minus Zero - Preview Screening",
     "url": "/movies/godzilla-minus-zero-preview-screening-japanese",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
   },
   "the-magic-faraway-tree": {
