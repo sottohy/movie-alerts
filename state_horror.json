@@ -482,7 +482,19 @@
   "moscow-cairo-arabic": {
     "title": "Moscow Cairo",
     "url": "/movies/moscow-cairo-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "ebenezer": {
+    "title": "Ebenezer",
+    "url": "/movies/ebenezer",
     "booking_open": false,
     "genre": "Comedy"
+  },
+  "maserati-the-brothers": {
+    "title": "Maserati: The Brothers",
+    "url": "/movies/maserati-the-brothers",
+    "booking_open": false,
+    "genre": "Sports"
   }
 }
