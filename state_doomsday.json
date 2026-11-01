@@ -242,7 +242,7 @@
   "avengers-doomsday": {
     "title": "Avengers: Doomsday",
     "url": "/movies/avengers-doomsday",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "children-of-blood-and-bone": {
