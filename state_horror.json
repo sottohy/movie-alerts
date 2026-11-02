@@ -508,5 +508,35 @@
     "url": "/movies/bts-world-tour-arirang-in-jakarta-live-viewing",
     "booking_open": false,
     "genre": "Concert"
+  },
+  "a-talent-for-murder": {
+    "title": "A Talent for Murder",
+    "url": "/movies/a-talent-for-murder",
+    "booking_open": false,
+    "genre": "Thriller"
+  },
+  "idiots": {
+    "title": "Idiots",
+    "url": "/movies/idiots",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "the-cycle": {
+    "title": "The Cycle",
+    "url": "/movies/the-cycle",
+    "booking_open": false,
+    "genre": "Horror"
+  },
+  "ramayana-hindi": {
+    "title": "Ramayana",
+    "url": "/movies/ramayana-hindi",
+    "booking_open": false,
+    "genre": "Fantasy"
+  },
+  "ramayana-english": {
+    "title": "Ramayana - English",
+    "url": "/movies/ramayana-english",
+    "booking_open": false,
+    "genre": "Fantasy"
   }
 }
