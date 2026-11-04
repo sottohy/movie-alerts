@@ -212,13 +212,13 @@
   "the-cat-in-the-hat": {
     "title": "The Cat In The Hat",
     "url": "/movies/the-cat-in-the-hat",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Animation"
   },
   "godzilla-minus-zero-japanese": {
     "title": "Godzilla Minus Zero",
     "url": "/movies/godzilla-minus-zero-japanese",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
   },
   "the-hunger-games-sunrise-on-the-reaping": {
@@ -404,7 +404,7 @@
   "hadoota-arabic": {
     "title": "Hadoota",
     "url": "/movies/hadoota-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "narnia-the-magicians-nephew": {
@@ -518,19 +518,19 @@
   "idiots": {
     "title": "Idiots",
     "url": "/movies/idiots",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Comedy"
   },
   "the-cycle": {
     "title": "The Cycle",
     "url": "/movies/the-cycle",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Horror"
   },
   "ramayana-hindi": {
     "title": "Ramayana",
     "url": "/movies/ramayana-hindi",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Fantasy"
   },
   "ramayana-english": {
@@ -538,5 +538,23 @@
     "url": "/movies/ramayana-english",
     "booking_open": false,
     "genre": "Fantasy"
+  },
+  "the-cat-in-the-hat-arabic": {
+    "title": "The Cat In The Hat",
+    "url": "/movies/the-cat-in-the-hat-arabic",
+    "booking_open": true,
+    "genre": "Animation"
+  },
+  "uc-harfliler-muhur-turkish": {
+    "title": "Uc Harfliler Muhur",
+    "url": "/movies/uc-harfliler-muhur-turkish",
+    "booking_open": true,
+    "genre": "Horror"
+  },
+  "mamsous-arabic": {
+    "title": "Mamsous",
+    "url": "/movies/mamsous-arabic",
+    "booking_open": false,
+    "genre": "Horror"
   }
 }
