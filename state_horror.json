@@ -556,5 +556,11 @@
     "url": "/movies/mamsous-arabic",
     "booking_open": false,
     "genre": "Horror"
+  },
+  "how-to-rob-a-bank": {
+    "title": "How to Rob a Bank",
+    "url": "/movies/how-to-rob-a-bank",
+    "booking_open": false,
+    "genre": "Action"
   }
 }
