@@ -488,7 +488,7 @@
   "ebenezer": {
     "title": "Ebenezer",
     "url": "/movies/ebenezer",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Comedy"
   },
   "maserati-the-brothers": {
@@ -560,7 +560,7 @@
   "how-to-rob-a-bank": {
     "title": "How to Rob a Bank",
     "url": "/movies/how-to-rob-a-bank",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic": {
@@ -584,7 +584,7 @@
   "ciff-2026-the-people-and-the-nile-arabic": {
     "title": "CIFF 2026: The People and The Nile",
     "url": "/movies/ciff-2026-the-people-and-the-nile-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-khan-el-khalili-arabic": {
@@ -668,7 +668,7 @@
   "ciff-2026-home-bitter-home-arabic": {
     "title": "CIFF 2026: Home Bitter Home",
     "url": "/movies/ciff-2026-home-bitter-home-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-the-mirage-arabic": {
@@ -686,7 +686,7 @@
   "ciff-2026-fleak-finnish": {
     "title": "CIFF 2026: Fleak",
     "url": "/movies/ciff-2026-fleak-finnish",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-the-female-idol-arabic": {
@@ -710,6 +710,24 @@
   "ciff-2026-the-second-wife-arabic": {
     "title": "CIFF 2026: The Second Wife",
     "url": "/movies/ciff-2026-the-second-wife-arabic",
+    "booking_open": false,
+    "genre": "Drama"
+  },
+  "best-pancakes-in-the-county": {
+    "title": "Best Pancakes in the County",
+    "url": "/movies/best-pancakes-in-the-county",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "ciff-2026-the-impossible-arabic": {
+    "title": "CIFF 2026: The Impossible",
+    "url": "/movies/ciff-2026-the-impossible-arabic",
+    "booking_open": false,
+    "genre": "Drama"
+  },
+  "ciff-2026-the-violinist-english-japanese": {
+    "title": "CIFF 2026: The Violinist",
+    "url": "/movies/ciff-2026-the-violinist-english-japanese",
     "booking_open": false,
     "genre": "Drama"
   }
