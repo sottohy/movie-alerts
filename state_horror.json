@@ -578,7 +578,7 @@
   "ciff-2026-a-woman-on-the-road-arabic": {
     "title": "CIFF 2026: A Woman on the Road",
     "url": "/movies/ciff-2026-a-woman-on-the-road-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-the-people-and-the-nile-arabic": {
@@ -602,13 +602,13 @@
   "ciff-2026-my-wife-and-the-dog-arabic": {
     "title": "CIFF 2026: My Wife and the Dog",
     "url": "/movies/ciff-2026-my-wife-and-the-dog-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-fatma-and-the-abdelwahab-plan-arabic": {
     "title": "CIFF 2026: Fatma and the Abdelwahab Plan",
     "url": "/movies/ciff-2026-fatma-and-the-abdelwahab-plan-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-night-and-jail-bars-arabic": {
@@ -620,7 +620,7 @@
   "ciff-2026-palace-of-desire-arabic": {
     "title": "CIFF 2026: Palace of Desire",
     "url": "/movies/ciff-2026-palace-of-desire-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-the-sin-arabic": {
@@ -638,7 +638,7 @@
   "ciff-2026-my-wife-general-manager-arabic": {
     "title": "CIFF 2026: My Wife, General Manager",
     "url": "/movies/ciff-2026-my-wife-general-manager-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-the-violinist-arabic-japanese": {
@@ -662,7 +662,7 @@
   "ciff-2026-the-lamp-of-umm-hashim-arabic": {
     "title": "CIFF 2026: The Lamp of Umm Hashim",
     "url": "/movies/ciff-2026-the-lamp-of-umm-hashim-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-home-bitter-home-arabic": {
@@ -674,13 +674,13 @@
   "ciff-2026-the-mirage-arabic": {
     "title": "CIFF 2026: The Mirage",
     "url": "/movies/ciff-2026-the-mirage-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-to-the-sun-and-beyond-tunisian-arabic": {
     "title": "CIFF 2026: To the Sun and Beyond",
     "url": "/movies/ciff-2026-to-the-sun-and-beyond-tunisian-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-fleak-finnish": {
@@ -698,7 +698,7 @@
   "ciff-2026-summer-meadow-french-arabic": {
     "title": "CIFF 2026: Summer Meadow",
     "url": "/movies/ciff-2026-summer-meadow-french-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-shafika-the-copt-arabic": {
@@ -722,7 +722,7 @@
   "ciff-2026-the-impossible-arabic": {
     "title": "CIFF 2026: The Impossible",
     "url": "/movies/ciff-2026-the-impossible-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-the-violinist-english-japanese": {
