@@ -566,13 +566,13 @@
   "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic": {
     "title": "CIFF 2026:A Crime in a Quiet Neighborhood",
     "url": "/movies/ciff-2026-a-crime-in-a-quiet-neighborhood-arabic",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Thriller"
   },
   "ciff-2026-cairo-30-arabic": {
     "title": "CIFF 2026: Cairo 30",
     "url": "/movies/ciff-2026-cairo-30-arabic",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Drama"
   },
   "ciff-2026-a-woman-on-the-road-arabic": {
@@ -588,15 +588,15 @@
     "genre": "Drama"
   },
   "ciff-2026-khan-el-khalili-arabic": {
-    "title": "CIFF 2026: Khan el khalili",
+    "title": "CIFF 2026: Khan El Khalili",
     "url": "/movies/ciff-2026-khan-el-khalili-arabic",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Drama"
   },
   "ciff-2026-dead-dogs-dont-bite-turkish": {
     "title": "CIFF 2026: Dead Dogs Don't Bite",
     "url": "/movies/ciff-2026-dead-dogs-dont-bite-turkish",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Drama"
   },
   "ciff-2026-my-wife-and-the-dog-arabic": {
@@ -614,7 +614,7 @@
   "ciff-2026-night-and-jail-bars-arabic": {
     "title": "CIFF 2026: Night and Jail Bars",
     "url": "/movies/ciff-2026-night-and-jail-bars-arabic",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Drama"
   },
   "ciff-2026-palace-of-desire-arabic": {
@@ -626,13 +626,13 @@
   "ciff-2026-the-sin-arabic": {
     "title": "CIFF 2026: The Sin",
     "url": "/movies/ciff-2026-the-sin-arabic",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Drama"
   },
   "ciff-2026-inherited-persian": {
     "title": "CIFF 2026: Inherited",
     "url": "/movies/ciff-2026-inherited-persian",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Drama"
   },
   "ciff-2026-my-wife-general-manager-arabic": {
@@ -668,7 +668,7 @@
   "ciff-2026-home-bitter-home-arabic": {
     "title": "CIFF 2026: Home Bitter Home",
     "url": "/movies/ciff-2026-home-bitter-home-arabic",
-    "booking_open": true,
+    "booking_open": false,
     "genre": "Drama"
   },
   "ciff-2026-the-mirage-arabic": {
@@ -692,7 +692,7 @@
   "ciff-2026-the-female-idol-arabic": {
     "title": "CIFF 2026: The Female Idol",
     "url": "/movies/ciff-2026-the-female-idol-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-summer-meadow-french-arabic": {
@@ -728,6 +728,12 @@
   "ciff-2026-the-violinist-english-japanese": {
     "title": "CIFF 2026: The Violinist",
     "url": "/movies/ciff-2026-the-violinist-english-japanese",
+    "booking_open": false,
+    "genre": "Drama"
+  },
+  "ciff-2026-the-soft-hands-arabic": {
+    "title": "CIFF 2026: The Soft Hands",
+    "url": "/movies/ciff-2026-the-soft-hands-arabic",
     "booking_open": false,
     "genre": "Drama"
   }
