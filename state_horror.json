@@ -590,13 +590,13 @@
   "ciff-2026-khan-el-khalili-arabic": {
     "title": "CIFF 2026: Khan El Khalili",
     "url": "/movies/ciff-2026-khan-el-khalili-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-dead-dogs-dont-bite-turkish": {
     "title": "CIFF 2026: Dead Dogs Don't Bite",
     "url": "/movies/ciff-2026-dead-dogs-dont-bite-turkish",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-my-wife-and-the-dog-arabic": {
@@ -614,7 +614,7 @@
   "ciff-2026-night-and-jail-bars-arabic": {
     "title": "CIFF 2026: Night and Jail Bars",
     "url": "/movies/ciff-2026-night-and-jail-bars-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-palace-of-desire-arabic": {
@@ -626,13 +626,13 @@
   "ciff-2026-the-sin-arabic": {
     "title": "CIFF 2026: The Sin",
     "url": "/movies/ciff-2026-the-sin-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-inherited-persian": {
     "title": "CIFF 2026: Inherited",
     "url": "/movies/ciff-2026-inherited-persian",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-my-wife-general-manager-arabic": {
@@ -668,7 +668,7 @@
   "ciff-2026-home-bitter-home-arabic": {
     "title": "CIFF 2026: Home Bitter Home",
     "url": "/movies/ciff-2026-home-bitter-home-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-the-mirage-arabic": {
