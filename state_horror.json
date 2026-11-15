@@ -650,13 +650,13 @@
   "ciff-2026-something-of-fear-arabic": {
     "title": "CIFF 2026: Something of Fear",
     "url": "/movies/ciff-2026-something-of-fear-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-for-life-arabic": {
     "title": "CIFF 2026: For Life",
     "url": "/movies/ciff-2026-for-life-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "ciff-2026-the-lamp-of-umm-hashim-arabic": {
