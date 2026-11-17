@@ -224,7 +224,7 @@
   "the-hunger-games-sunrise-on-the-reaping": {
     "title": "The Hunger Games: Sunrise on the Reaping",
     "url": "/movies/the-hunger-games-sunrise-on-the-reaping",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Action"
   },
   "hexed": {
@@ -710,7 +710,7 @@
   "ciff-2026-the-second-wife-arabic": {
     "title": "CIFF 2026: The Second Wife",
     "url": "/movies/ciff-2026-the-second-wife-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "best-pancakes-in-the-county": {
@@ -734,7 +734,7 @@
   "ciff-2026-the-soft-hands-arabic": {
     "title": "CIFF 2026: The Soft Hands",
     "url": "/movies/ciff-2026-the-soft-hands-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "the-angry-birds-movie-3": {
@@ -742,5 +742,41 @@
     "url": "/movies/the-angry-birds-movie-3",
     "booking_open": false,
     "genre": "Animation"
+  },
+  "belkis-turkish": {
+    "title": "Belkis",
+    "url": "/movies/belkis-turkish",
+    "booking_open": true,
+    "genre": "Horror"
+  },
+  "crypto-arabic": {
+    "title": "Crypto",
+    "url": "/movies/crypto-arabic",
+    "booking_open": true,
+    "genre": "Comedy"
+  },
+  "i-play-rocky": {
+    "title": "I Play Rocky",
+    "url": "/movies/i-play-rocky",
+    "booking_open": true,
+    "genre": "Biographical"
+  },
+  "les-mis-rables": {
+    "title": "Les Misérables",
+    "url": "/movies/les-mis-rables",
+    "booking_open": true,
+    "genre": "Action"
+  },
+  "dune-part-one-re-release": {
+    "title": "Dune: Part One",
+    "url": "/movies/dune-part-one-re-release",
+    "booking_open": false,
+    "genre": "Adventure"
+  },
+  "dune-part-two-re-release": {
+    "title": "Dune: Part Two",
+    "url": "/movies/dune-part-two-re-release",
+    "booking_open": false,
+    "genre": "Action"
   }
 }
