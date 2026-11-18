@@ -778,5 +778,11 @@
     "url": "/movies/dune-part-two-re-release",
     "booking_open": false,
     "genre": "Action"
+  },
+  "forgotten-island": {
+    "title": "Forgotten Island",
+    "url": "/movies/forgotten-island",
+    "booking_open": true,
+    "genre": "Animation"
   }
 }
