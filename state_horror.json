@@ -768,13 +768,13 @@
     "genre": "Action"
   },
   "dune-part-one-re-release": {
-    "title": "Dune: Part One",
+    "title": "Dune: Part One (Re-Release)",
     "url": "/movies/dune-part-one-re-release",
     "booking_open": false,
     "genre": "Adventure"
   },
   "dune-part-two-re-release": {
-    "title": "Dune: Part Two",
+    "title": "Dune: Part Two (Re-Release)",
     "url": "/movies/dune-part-two-re-release",
     "booking_open": false,
     "genre": "Action"
@@ -784,5 +784,23 @@
     "url": "/movies/forgotten-island",
     "booking_open": true,
     "genre": "Animation"
+  },
+  "sophia-arabic": {
+    "title": "Sophia",
+    "url": "/movies/sophia-arabic",
+    "booking_open": false,
+    "genre": "Drama"
+  },
+  "leila-bazet-khales-arabic": {
+    "title": "Leila Bazet Khales",
+    "url": "/movies/leila-bazet-khales-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "lela-bazit-khalis-arabic": {
+    "title": "Lela Bazit Khalis",
+    "url": "/movies/lela-bazit-khalis-arabic",
+    "booking_open": false,
+    "genre": "Comedy"
   }
 }
