@@ -814,5 +814,17 @@
     "url": "/movies/sales-booking-ashar",
     "booking_open": false,
     "genre": "Drama"
+  },
+  "spider-man-brand-new-brand-new-day": {
+    "title": "Spider-Man: (Brand New) Brand New Day",
+    "url": "/movies/spider-man-brand-new-brand-new-day",
+    "booking_open": false,
+    "genre": "Action"
+  },
+  "the-beekeeper-2": {
+    "title": "The Beekeeper 2",
+    "url": "/movies/the-beekeeper-2",
+    "booking_open": false,
+    "genre": "Action"
   }
 }
