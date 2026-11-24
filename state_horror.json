@@ -788,7 +788,7 @@
   "sophia-arabic": {
     "title": "Sophia",
     "url": "/movies/sophia-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Drama"
   },
   "leila-bazet-khales-arabic": {
@@ -800,7 +800,7 @@
   "lela-bazit-khalis-arabic": {
     "title": "Lela Bazit Khalis",
     "url": "/movies/lela-bazit-khalis-arabic",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Comedy"
   },
   "dune-part-three-preview-screening": {
