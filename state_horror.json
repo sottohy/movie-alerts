@@ -826,5 +826,17 @@
     "url": "/movies/the-beekeeper-2",
     "booking_open": false,
     "genre": "Action"
+  },
+  "focker-in-law": {
+    "title": "Focker In-Law",
+    "url": "/movies/focker-in-law",
+    "booking_open": false,
+    "genre": "Comedy"
+  },
+  "paper-tiger": {
+    "title": "Paper Tiger",
+    "url": "/movies/paper-tiger",
+    "booking_open": false,
+    "genre": "Crime"
   }
 }
