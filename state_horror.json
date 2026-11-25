@@ -230,7 +230,7 @@
   "hexed": {
     "title": "Hexed",
     "url": "/movies/hexed",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Adventure"
   },
   "violent-night-2": {
@@ -830,13 +830,25 @@
   "focker-in-law": {
     "title": "Focker In-Law",
     "url": "/movies/focker-in-law",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Comedy"
   },
   "paper-tiger": {
     "title": "Paper Tiger",
     "url": "/movies/paper-tiger",
-    "booking_open": false,
+    "booking_open": true,
     "genre": "Crime"
+  },
+  "you-can-see-everything": {
+    "title": "You Can See Everything",
+    "url": "/movies/you-can-see-everything",
+    "booking_open": true,
+    "genre": "Documentary"
+  },
+  "gun-maaster-g9-hindi": {
+    "title": "Gun Maaster G9",
+    "url": "/movies/gun-maaster-g9-hindi",
+    "booking_open": false,
+    "genre": "Action"
   }
 }
