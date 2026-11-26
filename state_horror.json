@@ -850,5 +850,11 @@
     "url": "/movies/gun-maaster-g9-hindi",
     "booking_open": false,
     "genre": "Action"
+  },
+  "k-pop-the-debut": {
+    "title": "K-Pop: The Debut",
+    "url": "/movies/k-pop-the-debut",
+    "booking_open": false,
+    "genre": "Musical"
   }
 }
